@@ -1,0 +1,3524 @@
+fileFormatVersion: 2
+guid: da472a6e1a289a845914040b3f9fa1b7
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: 01 Cotton
+    100002: 0810mm
+    100004: 1180 x 1170mm
+    100006: 1180 x 1170mm 1
+    100008: 150mm Foundation Slab
+    100010: 1730 x 2134mm
+    100012: 1800 x 900 mm
+    100014: 1800 x 900 mm 1
+    100016: 2.027 x 0.945
+    100018: 2.027 x 0.945 1
+    100020: 2.027 x 0.945 2
+    100022: 3000 x 3000mm Grid
+    100024: 3000 x 3000mm Grid 1
+    100026: 4500_Kitchen Island
+    100028: 4500_Kitchen Island 1
+    100030: 4500_Kitchen Island_DW
+    100032: 4500_Kitchen Island_DW 1
+    100034: 5000L 3500x900x1860
+    100036: 5000L 3500x900x1860 1
+    100038: 600 x 600 x 900mm
+    100040: 600 x 600 x 900mm 1
+    100042: 600 x 600 x 900mm 10
+    100044: 600 x 600 x 900mm 2
+    100046: 600 x 600 x 900mm 3
+    100048: 600 x 600 x 900mm 4
+    100050: 600 x 600 x 900mm 5
+    100052: 600 x 600 x 900mm 6
+    100054: 600 x 600 x 900mm 7
+    100056: 600 x 600 x 900mm 8
+    100058: 600 x 600 x 900mm 9
+    100060: 600mm Diameter
+    100062: 600mm Diameter 1
+    100064: 600mm Diameter 10
+    100066: 600mm Diameter 2
+    100068: 600mm Diameter 3
+    100070: 600mm Diameter 4
+    100072: 600mm Diameter 5
+    100074: 600mm Diameter 6
+    100076: 600mm Diameter 7
+    100078: 600mm Diameter 8
+    100080: 600mm Diameter 9
+    100082: 64 x 128 rectangular
+    100084: 64 x 128 rectangular 1
+    100086: 64 x 128 rectangular 10
+    100088: 64 x 128 rectangular 100
+    100090: 64 x 128 rectangular 101
+    100092: 64 x 128 rectangular 102
+    100094: 64 x 128 rectangular 103
+    100096: 64 x 128 rectangular 104
+    100098: 64 x 128 rectangular 105
+    100100: 64 x 128 rectangular 106
+    100102: 64 x 128 rectangular 107
+    100104: 64 x 128 rectangular 108
+    100106: 64 x 128 rectangular 109
+    100108: 64 x 128 rectangular 11
+    100110: 64 x 128 rectangular 110
+    100112: 64 x 128 rectangular 111
+    100114: 64 x 128 rectangular 112
+    100116: 64 x 128 rectangular 113
+    100118: 64 x 128 rectangular 114
+    100120: 64 x 128 rectangular 115
+    100122: 64 x 128 rectangular 116
+    100124: 64 x 128 rectangular 117
+    100126: 64 x 128 rectangular 118
+    100128: 64 x 128 rectangular 119
+    100130: 64 x 128 rectangular 12
+    100132: 64 x 128 rectangular 120
+    100134: 64 x 128 rectangular 121
+    100136: 64 x 128 rectangular 122
+    100138: 64 x 128 rectangular 123
+    100140: 64 x 128 rectangular 124
+    100142: 64 x 128 rectangular 125
+    100144: 64 x 128 rectangular 126
+    100146: 64 x 128 rectangular 127
+    100148: 64 x 128 rectangular 128
+    100150: 64 x 128 rectangular 129
+    100152: 64 x 128 rectangular 13
+    100154: 64 x 128 rectangular 130
+    100156: 64 x 128 rectangular 131
+    100158: 64 x 128 rectangular 132
+    100160: 64 x 128 rectangular 133
+    100162: 64 x 128 rectangular 134
+    100164: 64 x 128 rectangular 135
+    100166: 64 x 128 rectangular 136
+    100168: 64 x 128 rectangular 137
+    100170: 64 x 128 rectangular 138
+    100172: 64 x 128 rectangular 139
+    100174: 64 x 128 rectangular 14
+    100176: 64 x 128 rectangular 140
+    100178: 64 x 128 rectangular 141
+    100180: 64 x 128 rectangular 15
+    100182: 64 x 128 rectangular 16
+    100184: 64 x 128 rectangular 17
+    100186: 64 x 128 rectangular 18
+    100188: 64 x 128 rectangular 19
+    100190: 64 x 128 rectangular 2
+    100192: 64 x 128 rectangular 20
+    100194: 64 x 128 rectangular 21
+    100196: 64 x 128 rectangular 22
+    100198: 64 x 128 rectangular 23
+    100200: 64 x 128 rectangular 24
+    100202: 64 x 128 rectangular 25
+    100204: 64 x 128 rectangular 26
+    100206: 64 x 128 rectangular 27
+    100208: 64 x 128 rectangular 28
+    100210: 64 x 128 rectangular 29
+    100212: 64 x 128 rectangular 3
+    100214: 64 x 128 rectangular 30
+    100216: 64 x 128 rectangular 31
+    100218: 64 x 128 rectangular 32
+    100220: 64 x 128 rectangular 33
+    100222: 64 x 128 rectangular 34
+    100224: 64 x 128 rectangular 35
+    100226: 64 x 128 rectangular 36
+    100228: 64 x 128 rectangular 37
+    100230: 64 x 128 rectangular 38
+    100232: 64 x 128 rectangular 39
+    100234: 64 x 128 rectangular 4
+    100236: 64 x 128 rectangular 40
+    100238: 64 x 128 rectangular 41
+    100240: 64 x 128 rectangular 42
+    100242: 64 x 128 rectangular 43
+    100244: 64 x 128 rectangular 44
+    100246: 64 x 128 rectangular 45
+    100248: 64 x 128 rectangular 46
+    100250: 64 x 128 rectangular 47
+    100252: 64 x 128 rectangular 48
+    100254: 64 x 128 rectangular 49
+    100256: 64 x 128 rectangular 5
+    100258: 64 x 128 rectangular 50
+    100260: 64 x 128 rectangular 51
+    100262: 64 x 128 rectangular 52
+    100264: 64 x 128 rectangular 53
+    100266: 64 x 128 rectangular 54
+    100268: 64 x 128 rectangular 55
+    100270: 64 x 128 rectangular 56
+    100272: 64 x 128 rectangular 57
+    100274: 64 x 128 rectangular 58
+    100276: 64 x 128 rectangular 59
+    100278: 64 x 128 rectangular 6
+    100280: 64 x 128 rectangular 60
+    100282: 64 x 128 rectangular 61
+    100284: 64 x 128 rectangular 62
+    100286: 64 x 128 rectangular 63
+    100288: 64 x 128 rectangular 64
+    100290: 64 x 128 rectangular 65
+    100292: 64 x 128 rectangular 66
+    100294: 64 x 128 rectangular 67
+    100296: 64 x 128 rectangular 68
+    100298: 64 x 128 rectangular 69
+    100300: 64 x 128 rectangular 7
+    100302: 64 x 128 rectangular 70
+    100304: 64 x 128 rectangular 71
+    100306: 64 x 128 rectangular 72
+    100308: 64 x 128 rectangular 73
+    100310: 64 x 128 rectangular 74
+    100312: 64 x 128 rectangular 75
+    100314: 64 x 128 rectangular 76
+    100316: 64 x 128 rectangular 77
+    100318: 64 x 128 rectangular 78
+    100320: 64 x 128 rectangular 79
+    100322: 64 x 128 rectangular 8
+    100324: 64 x 128 rectangular 80
+    100326: 64 x 128 rectangular 81
+    100328: 64 x 128 rectangular 82
+    100330: 64 x 128 rectangular 83
+    100332: 64 x 128 rectangular 84
+    100334: 64 x 128 rectangular 85
+    100336: 64 x 128 rectangular 86
+    100338: 64 x 128 rectangular 87
+    100340: 64 x 128 rectangular 88
+    100342: 64 x 128 rectangular 89
+    100344: 64 x 128 rectangular 9
+    100346: 64 x 128 rectangular 90
+    100348: 64 x 128 rectangular 91
+    100350: 64 x 128 rectangular 92
+    100352: 64 x 128 rectangular 93
+    100354: 64 x 128 rectangular 94
+    100356: 64 x 128 rectangular 95
+    100358: 64 x 128 rectangular 96
+    100360: 64 x 128 rectangular 97
+    100362: 64 x 128 rectangular 98
+    100364: 64 x 128 rectangular 99
+    100366: 800 x 2100
+    100368: 800 x 2100 1
+    100370: 800 x 2100 2
+    100372: 800 x 2100 3
+    100374: 800 x 2100 4
+    100376: 800 x 2100 5
+    100378: 800 x 2100 6
+    100380: 9 Meters High
+    100382: 9 Meters High 1
+    100384: 9 Meters High 2
+    100386: aalto vase - tall
+    100388: Alex
+    100390: Approach
+    100392: Bar Chair
+    100394: Bar Chair 1
+    100396: Bar Chair 2
+    100398: Bar Chair 3
+    100400: Bar Chair 4
+    100402: Bar Chair 5
+    100404: Bar Chair 6
+    100406: Bathtub-TOTO-Nexus-FBF794S
+    100408: Cabinet 1
+    100410: Casework
+    100412: Cavity wall_sliders
+    100414: Ceilings
+    100416: Chrome-Polished_Chrome-CP
+    100418: CL_W1
+    100420: CL_W1 1
+    100422: CL_W1 2
+    100424: CL_W1 3
+    100426: CL_W1 4
+    100428: CL_W1 5
+    100430: Concrete-Domestic 425mm
+    100432: Curtain Panels
+    100434: Curtain Wall Dbl Glass
+    100436: Curtain Wall Dbl Glass 1
+    100438: Curtain Wall Dbl Glass 2
+    100440: Curtain Wall Dbl Glass 3
+    100442: Curtain Wall Mullions
+    100444: DC_Tankworks_PLM_5000L
+    100446: Dining Chair (3)
+    100448: Dining Chair (3) 1
+    100450: Dining Chair (3) 2
+    100452: Dining Chair (3) 3
+    100454: Dining Chair (3) 4
+    100456: Dining Chair (3) 5
+    100458: Dining Chair (3) 6
+    100460: Dining Chair (3) 7
+    100462: Dining Chair (3) 8
+    100464: Doors
+    100466: Electrical Equipment
+    100468: Entourage
+    100470: Entrance door
+    100472: Entrance door 1
+    100474: Entrance door 2
+    100476: Faucet-8inch_Reach-Kohler-Purist-7507
+    100478: Fine China - Plate
+    100480: Fine China - Plate 1
+    100482: Fine China - Plate 2
+    100484: Fine China - Plate 3
+    100486: Fine China - Plate 4
+    100488: Fine China - Plate 5
+    100490: Fine China - Plate 6
+    100492: Fine China - Plate 7
+    100494: fire place hang
+    100496: fire place hang 1
+    100498: Floors
+    100500: Foundation - 300mm Concrete
+    100502: From Yard
+    100504: Furniture
+    100506: Furniture Systems
+    100508: Generic 150mm
+    100510: Generic 150mm 1
+    100512: Generic 300
+    100514: Generic 300 1
+    100516: Generic Models
+    100518: Glazed
+    100520: Glazed 1
+    100522: Glazed 10
+    100524: Glazed 11
+    100526: Glazed 12
+    100528: Glazed 13
+    100530: Glazed 14
+    100532: Glazed 15
+    100534: Glazed 16
+    100536: Glazed 17
+    100538: Glazed 18
+    100540: Glazed 19
+    100542: Glazed 2
+    100544: Glazed 20
+    100546: Glazed 21
+    100548: Glazed 22
+    100550: Glazed 23
+    100552: Glazed 24
+    100554: Glazed 25
+    100556: Glazed 26
+    100558: Glazed 27
+    100560: Glazed 28
+    100562: Glazed 29
+    100564: Glazed 3
+    100566: Glazed 30
+    100568: Glazed 31
+    100570: Glazed 32
+    100572: Glazed 33
+    100574: Glazed 34
+    100576: Glazed 35
+    100578: Glazed 36
+    100580: Glazed 37
+    100582: Glazed 38
+    100584: Glazed 39
+    100586: Glazed 4
+    100588: Glazed 40
+    100590: Glazed 41
+    100592: Glazed 42
+    100594: Glazed 43
+    100596: Glazed 5
+    100598: Glazed 6
+    100600: Glazed 7
+    100602: Glazed 8
+    100604: Glazed 9
+    100606: Honey Locust - 25'
+    100608: Honey Locust - 25' 1
+    100610: Honey Locust - 25' 2
+    100612: hood enclosure
+    100614: hood enclosure 1
+    100616: Insitu Concrete 225mm
+    100618: Insitu Concrete 225mm 1
+    100620: Interior - 165 Partition (1-hr)
+    100622: Interior - 165 Partition (1-hr) 1
+    100624: Interior - 165 Partition (1-hr) 2
+    100626: Interior - Partition
+    100628: Interior - Partition 1
+    100630: Interior - Partition 10
+    100632: Interior - Partition 11
+    100634: Interior - Partition 12
+    100636: Interior - Partition 13
+    100638: Interior - Partition 2
+    100640: Interior - Partition 3
+    100642: Interior - Partition 4
+    100644: Interior - Partition 5
+    100646: Interior - Partition 6
+    100648: Interior - Partition 7
+    100650: Interior - Partition 8
+    100652: Interior - Partition 9
+    100654: Kitchen
+    100656: L127X127X9.5
+    100658: L127X127X9.5 1
+    100660: Lavatory-TOTO-Luminist_Rectangle_Vessel_LLT151
+    100662: Lighting Fixtures
+    100664: Living Room
+    100666: Lombardy Poplar - 40'
+    100668: M_1000
+    100670: M_Concrete-Round-Column with Drop Caps
+    100672: M_Double-Flush
+    100674: M_L-Anglel-Column
+    100676: M_Pile Cap-600 Pile
+    100678: M_Pile-Steel Pipe
+    100680: M_RPC Beetle
+    100682: M_RPC Beetle 1
+    100684: M_Shower Stall-2D
+    100686: M_Shower Stall-2D 1
+    100688: M_Shower Stall-2D 2
+    100690: M_Skylight
+    100692: M_TV - Flat Screen
+    100694: M_Wind Power Generator
+    100696: Miele Built-in Microwave M 8260-2
+    100698: Miele Built-in Rangehood DA 2210
+    100700: Miele Built-under Dishwasher G 4101 U CS
+    100702: Miele Built-under Dishwasher G 4101 U CS 1
+    100704: Miele Fridge/Freezer KF 1911 Vi
+    100706: Miele Induction Cooktop 6350 LPT
+    100708: Miele Induction Cooktop KM 6350 LPT
+    100710: Miele MasterCool KF 1911 Vi
+    100712: Miele Microwave M 8260-2
+    100714: Miele Oven H 5681 BP
+    100716: Miele Oven H 5681 BP 1
+    100718: Miele Tumble Dryer T 7944 C
+    100720: Miele Tumble Dryer T 7944 C 1
+    100722: Miele Washing Machine W 5820 WPS
+    100724: Miele Washing Machine W 5820 WPS 1
+    100726: Model with Island
+    100728: P-D-66N28T8
+    100730: P-D-66N28T8 1
+    100732: Pad 2
+    100734: Pad 2 1
+    100736: Pads
+    100738: Photovoltaic-Panel-SolarWorld-SunModule-(235-240)
+    100740: Planting
+    100742: Plumbing Fixtures
+    100744: Pocket_Slider_Door_5851
+    100746: rac_basic_sample_project (1).rvt
+    100748: Railings
+    100750: Rangehood DA-2210
+    100752: Rectangular - 50x50mm
+    100754: Rectangular - 50x50mm 1
+    100756: Rectangular - 50x50mm 2
+    100758: Rectangular - 50x50mm 3
+    100760: Rectangular - 50x50mm 4
+    100762: Rectangular - 50x50mm 5
+    100764: Rectangular - 50x50mm 6
+    100766: Rectangular - 50x50mm 7
+    100768: Rectangular - 50x50mm 8
+    100770: Rectangular - 50x50mm 9
+    100772: Rectangular Mullion
+    100774: Red Ash - 25'
+    100776: Retaining - 300mm Concrete
+    100778: Retaining - 300mm Concrete 1
+    100780: Retaining - 300mm Concrete 2
+    100782: Retaining - 300mm Concrete 3
+    100784: Retaining - 300mm Concrete 4
+    100786: Retaining - 300mm Concrete 5
+    100788: Retaining - 300mm Concrete 6
+    100790: Retaining - 300mm Concrete 7
+    100792: Retaining - 300mm Concrete 8
+    100794: Roofs
+    100796: RPC Female
+    100798: RPC Male
+    100800: RPC Tree - Deciduous
+    100802: //RootNode
+    100804: Seat - Single with Island
+    100806: Seating - Artemis - Lounge chair
+    100808: Seating - Artemis - Lounge chair 1
+    100810: Seating - Artemis - Lounge chair 2
+    100812: Section Perspective
+    100814: SG Metal Panels roof
+    100816: SH_1100mm
+    100818: SH_1100mm 1
+    100820: SH_1100mm 2
+    100822: SH_1100mm 3
+    100824: SH_1100mm 4
+    100826: SH_1100mm 5
+    100828: SH_1100mm 6
+    100830: SH_1100mm 7
+    100832: SH_1100mm 8
+    100834: SH_1100mm 9
+    100836: SH_Lighting-Pendant-Litecontrol-Mod66-8_Foot_09
+    100838: Side Table 2 (2)
+    100840: Side Table 2 (2) 1
+    100842: Side Table 2 (2) 2
+    100844: Single Window
+    100846: Single-Flush
+    100848: Sink-Offset-Kohler-Vault-3823_4
+    100850: SIP 202mm Wall - conc clad
+    100852: SIP 202mm Wall - conc clad 1
+    100854: SIP 202mm Wall - conc clad 2
+    100856: SIP 202mm Wall - conc clad 3
+    100858: Site
+    100860: small
+    100862: Sofa - Ottoman
+    100864: Solar Analysis
+    100866: Solarworld Sunmodule Plus
+    100868: Solarworld Sunmodule Plus 1
+    100870: Solarworld Sunmodule Plus 10
+    100872: Solarworld Sunmodule Plus 11
+    100874: Solarworld Sunmodule Plus 2
+    100876: Solarworld Sunmodule Plus 3
+    100878: Solarworld Sunmodule Plus 4
+    100880: Solarworld Sunmodule Plus 5
+    100882: Solarworld Sunmodule Plus 6
+    100884: Solarworld Sunmodule Plus 7
+    100886: Solarworld Sunmodule Plus 8
+    100888: Solarworld Sunmodule Plus 9
+    100890: Specialty Equipment
+    100892: Stair
+    100894: Stair 1
+    100896: Stair 2
+    100898: Stairs
+    100900: Standard
+    100902: Standard 1
+    100904: Standard 10
+    100906: Standard 11
+    100908: Standard 12
+    100910: Standard 13
+    100912: Standard 14
+    100914: Standard 15
+    100916: Standard 16
+    100918: Standard 17
+    100920: Standard 18
+    100922: Standard 2
+    100924: Standard 3
+    100926: Standard 4
+    100928: Standard 5
+    100930: Standard 6
+    100932: Standard 7
+    100934: Standard 8
+    100936: Standard 9
+    100938: Steel-Stainless-NA
+    100940: Structural Columns
+    100942: Structural Foundations
+    100944: Structural Foundations 1
+    100946: Surface
+    100948: Surface 1
+    100950: Surface 2
+    100952: System Panel
+    100954: Table-Dining 01 (M)
+    100956: Timber Suspended Floor
+    100958: Top Rails
+    100960: Topography
+    100962: Trck_BswySystms_Cooper_RSA_Profile Series_AR111 Closed Back Integral Xfmr
+    100964: Trck_BswySystms_Cooper_RSA_Profile Series_AR111 Closed Back Integral Xfmr
+      1
+    100966: Trck_BswySystms_Cooper_RSA_Profile Series_AR111 Closed Back Integral Xfmr
+      2
+    100968: Trck_BswySystms_Cooper_RSA_Profile Series_AR111 Closed Back Integral Xfmr
+      3
+    100970: Trck_BswySystms_Cooper_RSA_Profile Series_AR111 Closed Back Integral Xfmr
+      4
+    100972: Trck_BswySystms_Cooper_RSA_Profile Series_AR111 Closed Back Integral Xfmr
+      5
+    100974: Trck_BswySystms_Cooper_RSA_Profile Series_AR111 Closed Back Integral Xfmr
+      6
+    100976: Trck_BswySystms_Cooper_RSA_Profile Series_AR111 Closed Back Integral Xfmr
+      7
+    100978: Trck_BswySystms_Cooper_RSA_Profile Series_AR111 Closed Back Integral Xfmr
+      8
+    100980: Vase (3)-with Flower
+    100982: Vase (3)-with Flower 1
+    100984: W1500XD400XH530
+    100986: W600XD600
+    100988: W600XD600 1
+    100990: W600XD600 2
+    100992: W600XD600 2 1
+    100994: W600XD600 2 1 1
+    100996: W600XD600 3
+    100998: W600XD600 4
+    101000: Wall - Timber Clad
+    101002: Wall - Timber Clad 1
+    101004: Wall - Timber Clad 2
+    101006: Wall - Timber Clad 3
+    101008: Wall - Timber Clad 4
+    101010: Wall - Timber Clad 5
+    101012: Wall - Timber Clad 6
+    101014: Wall - Timber Clad 7
+    101016: Walls
+    101018: Walvit
+    101020: Walvit 1
+    101022: Walvit 2
+    101024: Walvit 3
+    101026: Walvit_Hung Bowl_604118 W
+    101028: wardrobe
+    101030: wardrobe 1
+    101032: wardrobe1
+    101034: wardrobe2
+    101036: Warm Roof - Timber
+    101038: Water Glass
+    101040: Water Glass 1
+    101042: Water Glass 2
+    101044: Water Glass 3
+    101046: Water Glass 4
+    101048: Water Glass 5
+    101050: Water Glass 6
+    101052: Water Glass 7
+    101054: Water Glass 8
+    101056: White
+    101058: White Porcelain Plate
+    101060: Windows
+    101062: Wine Bottles
+    101064: Wine Bottles 1
+    101066: YinYin
+    101068: YinYin 1
+    101070: YinYin 2
+    101072: '{3D}'
+    400000: 01 Cotton
+    400002: 0810mm
+    400004: 1180 x 1170mm
+    400006: 1180 x 1170mm 1
+    400008: 150mm Foundation Slab
+    400010: 1730 x 2134mm
+    400012: 1800 x 900 mm
+    400014: 1800 x 900 mm 1
+    400016: 2.027 x 0.945
+    400018: 2.027 x 0.945 1
+    400020: 2.027 x 0.945 2
+    400022: 3000 x 3000mm Grid
+    400024: 3000 x 3000mm Grid 1
+    400026: 4500_Kitchen Island
+    400028: 4500_Kitchen Island 1
+    400030: 4500_Kitchen Island_DW
+    400032: 4500_Kitchen Island_DW 1
+    400034: 5000L 3500x900x1860
+    400036: 5000L 3500x900x1860 1
+    400038: 600 x 600 x 900mm
+    400040: 600 x 600 x 900mm 1
+    400042: 600 x 600 x 900mm 10
+    400044: 600 x 600 x 900mm 2
+    400046: 600 x 600 x 900mm 3
+    400048: 600 x 600 x 900mm 4
+    400050: 600 x 600 x 900mm 5
+    400052: 600 x 600 x 900mm 6
+    400054: 600 x 600 x 900mm 7
+    400056: 600 x 600 x 900mm 8
+    400058: 600 x 600 x 900mm 9
+    400060: 600mm Diameter
+    400062: 600mm Diameter 1
+    400064: 600mm Diameter 10
+    400066: 600mm Diameter 2
+    400068: 600mm Diameter 3
+    400070: 600mm Diameter 4
+    400072: 600mm Diameter 5
+    400074: 600mm Diameter 6
+    400076: 600mm Diameter 7
+    400078: 600mm Diameter 8
+    400080: 600mm Diameter 9
+    400082: 64 x 128 rectangular
+    400084: 64 x 128 rectangular 1
+    400086: 64 x 128 rectangular 10
+    400088: 64 x 128 rectangular 100
+    400090: 64 x 128 rectangular 101
+    400092: 64 x 128 rectangular 102
+    400094: 64 x 128 rectangular 103
+    400096: 64 x 128 rectangular 104
+    400098: 64 x 128 rectangular 105
+    400100: 64 x 128 rectangular 106
+    400102: 64 x 128 rectangular 107
+    400104: 64 x 128 rectangular 108
+    400106: 64 x 128 rectangular 109
+    400108: 64 x 128 rectangular 11
+    400110: 64 x 128 rectangular 110
+    400112: 64 x 128 rectangular 111
+    400114: 64 x 128 rectangular 112
+    400116: 64 x 128 rectangular 113
+    400118: 64 x 128 rectangular 114
+    400120: 64 x 128 rectangular 115
+    400122: 64 x 128 rectangular 116
+    400124: 64 x 128 rectangular 117
+    400126: 64 x 128 rectangular 118
+    400128: 64 x 128 rectangular 119
+    400130: 64 x 128 rectangular 12
+    400132: 64 x 128 rectangular 120
+    400134: 64 x 128 rectangular 121
+    400136: 64 x 128 rectangular 122
+    400138: 64 x 128 rectangular 123
+    400140: 64 x 128 rectangular 124
+    400142: 64 x 128 rectangular 125
+    400144: 64 x 128 rectangular 126
+    400146: 64 x 128 rectangular 127
+    400148: 64 x 128 rectangular 128
+    400150: 64 x 128 rectangular 129
+    400152: 64 x 128 rectangular 13
+    400154: 64 x 128 rectangular 130
+    400156: 64 x 128 rectangular 131
+    400158: 64 x 128 rectangular 132
+    400160: 64 x 128 rectangular 133
+    400162: 64 x 128 rectangular 134
+    400164: 64 x 128 rectangular 135
+    400166: 64 x 128 rectangular 136
+    400168: 64 x 128 rectangular 137
+    400170: 64 x 128 rectangular 138
+    400172: 64 x 128 rectangular 139
+    400174: 64 x 128 rectangular 14
+    400176: 64 x 128 rectangular 140
+    400178: 64 x 128 rectangular 141
+    400180: 64 x 128 rectangular 15
+    400182: 64 x 128 rectangular 16
+    400184: 64 x 128 rectangular 17
+    400186: 64 x 128 rectangular 18
+    400188: 64 x 128 rectangular 19
+    400190: 64 x 128 rectangular 2
+    400192: 64 x 128 rectangular 20
+    400194: 64 x 128 rectangular 21
+    400196: 64 x 128 rectangular 22
+    400198: 64 x 128 rectangular 23
+    400200: 64 x 128 rectangular 24
+    400202: 64 x 128 rectangular 25
+    400204: 64 x 128 rectangular 26
+    400206: 64 x 128 rectangular 27
+    400208: 64 x 128 rectangular 28
+    400210: 64 x 128 rectangular 29
+    400212: 64 x 128 rectangular 3
+    400214: 64 x 128 rectangular 30
+    400216: 64 x 128 rectangular 31
+    400218: 64 x 128 rectangular 32
+    400220: 64 x 128 rectangular 33
+    400222: 64 x 128 rectangular 34
+    400224: 64 x 128 rectangular 35
+    400226: 64 x 128 rectangular 36
+    400228: 64 x 128 rectangular 37
+    400230: 64 x 128 rectangular 38
+    400232: 64 x 128 rectangular 39
+    400234: 64 x 128 rectangular 4
+    400236: 64 x 128 rectangular 40
+    400238: 64 x 128 rectangular 41
+    400240: 64 x 128 rectangular 42
+    400242: 64 x 128 rectangular 43
+    400244: 64 x 128 rectangular 44
+    400246: 64 x 128 rectangular 45
+    400248: 64 x 128 rectangular 46
+    400250: 64 x 128 rectangular 47
+    400252: 64 x 128 rectangular 48
+    400254: 64 x 128 rectangular 49
+    400256: 64 x 128 rectangular 5
+    400258: 64 x 128 rectangular 50
+    400260: 64 x 128 rectangular 51
+    400262: 64 x 128 rectangular 52
+    400264: 64 x 128 rectangular 53
+    400266: 64 x 128 rectangular 54
+    400268: 64 x 128 rectangular 55
+    400270: 64 x 128 rectangular 56
+    400272: 64 x 128 rectangular 57
+    400274: 64 x 128 rectangular 58
+    400276: 64 x 128 rectangular 59
+    400278: 64 x 128 rectangular 6
+    400280: 64 x 128 rectangular 60
+    400282: 64 x 128 rectangular 61
+    400284: 64 x 128 rectangular 62
+    400286: 64 x 128 rectangular 63
+    400288: 64 x 128 rectangular 64
+    400290: 64 x 128 rectangular 65
+    400292: 64 x 128 rectangular 66
+    400294: 64 x 128 rectangular 67
+    400296: 64 x 128 rectangular 68
+    400298: 64 x 128 rectangular 69
+    400300: 64 x 128 rectangular 7
+    400302: 64 x 128 rectangular 70
+    400304: 64 x 128 rectangular 71
+    400306: 64 x 128 rectangular 72
+    400308: 64 x 128 rectangular 73
+    400310: 64 x 128 rectangular 74
+    400312: 64 x 128 rectangular 75
+    400314: 64 x 128 rectangular 76
+    400316: 64 x 128 rectangular 77
+    400318: 64 x 128 rectangular 78
+    400320: 64 x 128 rectangular 79
+    400322: 64 x 128 rectangular 8
+    400324: 64 x 128 rectangular 80
+    400326: 64 x 128 rectangular 81
+    400328: 64 x 128 rectangular 82
+    400330: 64 x 128 rectangular 83
+    400332: 64 x 128 rectangular 84
+    400334: 64 x 128 rectangular 85
+    400336: 64 x 128 rectangular 86
+    400338: 64 x 128 rectangular 87
+    400340: 64 x 128 rectangular 88
+    400342: 64 x 128 rectangular 89
+    400344: 64 x 128 rectangular 9
+    400346: 64 x 128 rectangular 90
+    400348: 64 x 128 rectangular 91
+    400350: 64 x 128 rectangular 92
+    400352: 64 x 128 rectangular 93
+    400354: 64 x 128 rectangular 94
+    400356: 64 x 128 rectangular 95
+    400358: 64 x 128 rectangular 96
+    400360: 64 x 128 rectangular 97
+    400362: 64 x 128 rectangular 98
+    400364: 64 x 128 rectangular 99
+    400366: 800 x 2100
+    400368: 800 x 2100 1
+    400370: 800 x 2100 2
+    400372: 800 x 2100 3
+    400374: 800 x 2100 4
+    400376: 800 x 2100 5
+    400378: 800 x 2100 6
+    400380: 9 Meters High
+    400382: 9 Meters High 1
+    400384: 9 Meters High 2
+    400386: aalto vase - tall
+    400388: Alex
+    400390: Approach
+    400392: Bar Chair
+    400394: Bar Chair 1
+    400396: Bar Chair 2
+    400398: Bar Chair 3
+    400400: Bar Chair 4
+    400402: Bar Chair 5
+    400404: Bar Chair 6
+    400406: Bathtub-TOTO-Nexus-FBF794S
+    400408: Cabinet 1
+    400410: Casework
+    400412: Cavity wall_sliders
+    400414: Ceilings
+    400416: Chrome-Polished_Chrome-CP
+    400418: CL_W1
+    400420: CL_W1 1
+    400422: CL_W1 2
+    400424: CL_W1 3
+    400426: CL_W1 4
+    400428: CL_W1 5
+    400430: Concrete-Domestic 425mm
+    400432: Curtain Panels
+    400434: Curtain Wall Dbl Glass
+    400436: Curtain Wall Dbl Glass 1
+    400438: Curtain Wall Dbl Glass 2
+    400440: Curtain Wall Dbl Glass 3
+    400442: Curtain Wall Mullions
+    400444: DC_Tankworks_PLM_5000L
+    400446: Dining Chair (3)
+    400448: Dining Chair (3) 1
+    400450: Dining Chair (3) 2
+    400452: Dining Chair (3) 3
+    400454: Dining Chair (3) 4
+    400456: Dining Chair (3) 5
+    400458: Dining Chair (3) 6
+    400460: Dining Chair (3) 7
+    400462: Dining Chair (3) 8
+    400464: Doors
+    400466: Electrical Equipment
+    400468: Entourage
+    400470: Entrance door
+    400472: Entrance door 1
+    400474: Entrance door 2
+    400476: Faucet-8inch_Reach-Kohler-Purist-7507
+    400478: Fine China - Plate
+    400480: Fine China - Plate 1
+    400482: Fine China - Plate 2
+    400484: Fine China - Plate 3
+    400486: Fine China - Plate 4
+    400488: Fine China - Plate 5
+    400490: Fine China - Plate 6
+    400492: Fine China - Plate 7
+    400494: fire place hang
+    400496: fire place hang 1
+    400498: Floors
+    400500: Foundation - 300mm Concrete
+    400502: From Yard
+    400504: Furniture
+    400506: Furniture Systems
+    400508: Generic 150mm
+    400510: Generic 150mm 1
+    400512: Generic 300
+    400514: Generic 300 1
+    400516: Generic Models
+    400518: Glazed
+    400520: Glazed 1
+    400522: Glazed 10
+    400524: Glazed 11
+    400526: Glazed 12
+    400528: Glazed 13
+    400530: Glazed 14
+    400532: Glazed 15
+    400534: Glazed 16
+    400536: Glazed 17
+    400538: Glazed 18
+    400540: Glazed 19
+    400542: Glazed 2
+    400544: Glazed 20
+    400546: Glazed 21
+    400548: Glazed 22
+    400550: Glazed 23
+    400552: Glazed 24
+    400554: Glazed 25
+    400556: Glazed 26
+    400558: Glazed 27
+    400560: Glazed 28
+    400562: Glazed 29
+    400564: Glazed 3
+    400566: Glazed 30
+    400568: Glazed 31
+    400570: Glazed 32
+    400572: Glazed 33
+    400574: Glazed 34
+    400576: Glazed 35
+    400578: Glazed 36
+    400580: Glazed 37
+    400582: Glazed 38
+    400584: Glazed 39
+    400586: Glazed 4
+    400588: Glazed 40
+    400590: Glazed 41
+    400592: Glazed 42
+    400594: Glazed 43
+    400596: Glazed 5
+    400598: Glazed 6
+    400600: Glazed 7
+    400602: Glazed 8
+    400604: Glazed 9
+    400606: Honey Locust - 25'
+    400608: Honey Locust - 25' 1
+    400610: Honey Locust - 25' 2
+    400612: hood enclosure
+    400614: hood enclosure 1
+    400616: Insitu Concrete 225mm
+    400618: Insitu Concrete 225mm 1
+    400620: Interior - 165 Partition (1-hr)
+    400622: Interior - 165 Partition (1-hr) 1
+    400624: Interior - 165 Partition (1-hr) 2
+    400626: Interior - Partition
+    400628: Interior - Partition 1
+    400630: Interior - Partition 10
+    400632: Interior - Partition 11
+    400634: Interior - Partition 12
+    400636: Interior - Partition 13
+    400638: Interior - Partition 2
+    400640: Interior - Partition 3
+    400642: Interior - Partition 4
+    400644: Interior - Partition 5
+    400646: Interior - Partition 6
+    400648: Interior - Partition 7
+    400650: Interior - Partition 8
+    400652: Interior - Partition 9
+    400654: Kitchen
+    400656: L127X127X9.5
+    400658: L127X127X9.5 1
+    400660: Lavatory-TOTO-Luminist_Rectangle_Vessel_LLT151
+    400662: Lighting Fixtures
+    400664: Living Room
+    400666: Lombardy Poplar - 40'
+    400668: M_1000
+    400670: M_Concrete-Round-Column with Drop Caps
+    400672: M_Double-Flush
+    400674: M_L-Anglel-Column
+    400676: M_Pile Cap-600 Pile
+    400678: M_Pile-Steel Pipe
+    400680: M_RPC Beetle
+    400682: M_RPC Beetle 1
+    400684: M_Shower Stall-2D
+    400686: M_Shower Stall-2D 1
+    400688: M_Shower Stall-2D 2
+    400690: M_Skylight
+    400692: M_TV - Flat Screen
+    400694: M_Wind Power Generator
+    400696: Miele Built-in Microwave M 8260-2
+    400698: Miele Built-in Rangehood DA 2210
+    400700: Miele Built-under Dishwasher G 4101 U CS
+    400702: Miele Built-under Dishwasher G 4101 U CS 1
+    400704: Miele Fridge/Freezer KF 1911 Vi
+    400706: Miele Induction Cooktop 6350 LPT
+    400708: Miele Induction Cooktop KM 6350 LPT
+    400710: Miele MasterCool KF 1911 Vi
+    400712: Miele Microwave M 8260-2
+    400714: Miele Oven H 5681 BP
+    400716: Miele Oven H 5681 BP 1
+    400718: Miele Tumble Dryer T 7944 C
+    400720: Miele Tumble Dryer T 7944 C 1
+    400722: Miele Washing Machine W 5820 WPS
+    400724: Miele Washing Machine W 5820 WPS 1
+    400726: Model with Island
+    400728: P-D-66N28T8
+    400730: P-D-66N28T8 1
+    400732: Pad 2
+    400734: Pad 2 1
+    400736: Pads
+    400738: Photovoltaic-Panel-SolarWorld-SunModule-(235-240)
+    400740: Planting
+    400742: Plumbing Fixtures
+    400744: Pocket_Slider_Door_5851
+    400746: rac_basic_sample_project (1).rvt
+    400748: Railings
+    400750: Rangehood DA-2210
+    400752: Rectangular - 50x50mm
+    400754: Rectangular - 50x50mm 1
+    400756: Rectangular - 50x50mm 2
+    400758: Rectangular - 50x50mm 3
+    400760: Rectangular - 50x50mm 4
+    400762: Rectangular - 50x50mm 5
+    400764: Rectangular - 50x50mm 6
+    400766: Rectangular - 50x50mm 7
+    400768: Rectangular - 50x50mm 8
+    400770: Rectangular - 50x50mm 9
+    400772: Rectangular Mullion
+    400774: Red Ash - 25'
+    400776: Retaining - 300mm Concrete
+    400778: Retaining - 300mm Concrete 1
+    400780: Retaining - 300mm Concrete 2
+    400782: Retaining - 300mm Concrete 3
+    400784: Retaining - 300mm Concrete 4
+    400786: Retaining - 300mm Concrete 5
+    400788: Retaining - 300mm Concrete 6
+    400790: Retaining - 300mm Concrete 7
+    400792: Retaining - 300mm Concrete 8
+    400794: Roofs
+    400796: RPC Female
+    400798: RPC Male
+    400800: RPC Tree - Deciduous
+    400802: //RootNode
+    400804: Seat - Single with Island
+    400806: Seating - Artemis - Lounge chair
+    400808: Seating - Artemis - Lounge chair 1
+    400810: Seating - Artemis - Lounge chair 2
+    400812: Section Perspective
+    400814: SG Metal Panels roof
+    400816: SH_1100mm
+    400818: SH_1100mm 1
+    400820: SH_1100mm 2
+    400822: SH_1100mm 3
+    400824: SH_1100mm 4
+    400826: SH_1100mm 5
+    400828: SH_1100mm 6
+    400830: SH_1100mm 7
+    400832: SH_1100mm 8
+    400834: SH_1100mm 9
+    400836: SH_Lighting-Pendant-Litecontrol-Mod66-8_Foot_09
+    400838: Side Table 2 (2)
+    400840: Side Table 2 (2) 1
+    400842: Side Table 2 (2) 2
+    400844: Single Window
+    400846: Single-Flush
+    400848: Sink-Offset-Kohler-Vault-3823_4
+    400850: SIP 202mm Wall - conc clad
+    400852: SIP 202mm Wall - conc clad 1
+    400854: SIP 202mm Wall - conc clad 2
+    400856: SIP 202mm Wall - conc clad 3
+    400858: Site
+    400860: small
+    400862: Sofa - Ottoman
+    400864: Solar Analysis
+    400866: Solarworld Sunmodule Plus
+    400868: Solarworld Sunmodule Plus 1
+    400870: Solarworld Sunmodule Plus 10
+    400872: Solarworld Sunmodule Plus 11
+    400874: Solarworld Sunmodule Plus 2
+    400876: Solarworld Sunmodule Plus 3
+    400878: Solarworld Sunmodule Plus 4
+    400880: Solarworld Sunmodule Plus 5
+    400882: Solarworld Sunmodule Plus 6
+    400884: Solarworld Sunmodule Plus 7
+    400886: Solarworld Sunmodule Plus 8
+    400888: Solarworld Sunmodule Plus 9
+    400890: Specialty Equipment
+    400892: Stair
+    400894: Stair 1
+    400896: Stair 2
+    400898: Stairs
+    400900: Standard
+    400902: Standard 1
+    400904: Standard 10
+    400906: Standard 11
+    400908: Standard 12
+    400910: Standard 13
+    400912: Standard 14
+    400914: Standard 15
+    400916: Standard 16
+    400918: Standard 17
+    400920: Standard 18
+    400922: Standard 2
+    400924: Standard 3
+    400926: Standard 4
+    400928: Standard 5
+    400930: Standard 6
+    400932: Standard 7
+    400934: Standard 8
+    400936: Standard 9
+    400938: Steel-Stainless-NA
+    400940: Structural Columns
+    400942: Structural Foundations
+    400944: Structural Foundations 1
+    400946: Surface
+    400948: Surface 1
+    400950: Surface 2
+    400952: System Panel
+    400954: Table-Dining 01 (M)
+    400956: Timber Suspended Floor
+    400958: Top Rails
+    400960: Topography
+    400962: Trck_BswySystms_Cooper_RSA_Profile Series_AR111 Closed Back Integral Xfmr
+    400964: Trck_BswySystms_Cooper_RSA_Profile Series_AR111 Closed Back Integral Xfmr
+      1
+    400966: Trck_BswySystms_Cooper_RSA_Profile Series_AR111 Closed Back Integral Xfmr
+      2
+    400968: Trck_BswySystms_Cooper_RSA_Profile Series_AR111 Closed Back Integral Xfmr
+      3
+    400970: Trck_BswySystms_Cooper_RSA_Profile Series_AR111 Closed Back Integral Xfmr
+      4
+    400972: Trck_BswySystms_Cooper_RSA_Profile Series_AR111 Closed Back Integral Xfmr
+      5
+    400974: Trck_BswySystms_Cooper_RSA_Profile Series_AR111 Closed Back Integral Xfmr
+      6
+    400976: Trck_BswySystms_Cooper_RSA_Profile Series_AR111 Closed Back Integral Xfmr
+      7
+    400978: Trck_BswySystms_Cooper_RSA_Profile Series_AR111 Closed Back Integral Xfmr
+      8
+    400980: Vase (3)-with Flower
+    400982: Vase (3)-with Flower 1
+    400984: W1500XD400XH530
+    400986: W600XD600
+    400988: W600XD600 1
+    400990: W600XD600 2
+    400992: W600XD600 2 1
+    400994: W600XD600 2 1 1
+    400996: W600XD600 3
+    400998: W600XD600 4
+    401000: Wall - Timber Clad
+    401002: Wall - Timber Clad 1
+    401004: Wall - Timber Clad 2
+    401006: Wall - Timber Clad 3
+    401008: Wall - Timber Clad 4
+    401010: Wall - Timber Clad 5
+    401012: Wall - Timber Clad 6
+    401014: Wall - Timber Clad 7
+    401016: Walls
+    401018: Walvit
+    401020: Walvit 1
+    401022: Walvit 2
+    401024: Walvit 3
+    401026: Walvit_Hung Bowl_604118 W
+    401028: wardrobe
+    401030: wardrobe 1
+    401032: wardrobe1
+    401034: wardrobe2
+    401036: Warm Roof - Timber
+    401038: Water Glass
+    401040: Water Glass 1
+    401042: Water Glass 2
+    401044: Water Glass 3
+    401046: Water Glass 4
+    401048: Water Glass 5
+    401050: Water Glass 6
+    401052: Water Glass 7
+    401054: Water Glass 8
+    401056: White
+    401058: White Porcelain Plate
+    401060: Windows
+    401062: Wine Bottles
+    401064: Wine Bottles 1
+    401066: YinYin
+    401068: YinYin 1
+    401070: YinYin 2
+    401072: '{3D}'
+    2000000: Approach
+    2000002: From Yard
+    2000004: Kitchen
+    2000006: Living Room
+    2000008: Section Perspective
+    2000010: Solar Analysis
+    2000012: '{3D}'
+    2100000: SH_resin Floor
+    2100002: Site - Hardcore
+    2100004: Concrete, Sand_Cement Screed
+    2100006: Structure - Timber Joist_Rafter Layer
+    2100008: Carpet (1)
+    2100010: Concrete, Cast In Situ
+    2100012: Finishes - Interior - Plasterboard
+    2100014: Default Wall
+    2100016: Finishes - Exterior - Timber Cladding
+    2100018: Finishes - Interior - Gypsum Wall Board
+    2100020: CL Concrete_ panels
+    2100022: Concrete - Cast In Situ
+    2100024: Steel-Kohler-NA-Stainless
+    2100026: Chrome-Kohler-CP-Polished_Chrome
+    2100028: Metal - TOTO - Enameled - 01 Cotton
+    2100030: Plastic - TOTO - 01 Cotton
+    2100032: Epoxy Resin - TOTO - 61 Angelic White
+    2100034: Metal - TOTO - Chrome - Polished
+    2100036: "Tankworks - Colorbond\xAE - Pale Eucalypt\xAE"
+    2100038: No Name
+    2100040: Gypsum Wall Board
+    2100042: Roofing - Metal Standing Seam
+    2100044: Roofing - Asphalt
+    2100046: Grass
+    2100048: Earth
+    2100050: Concrete - Cast-in-Place Concrete
+    2100052: Metal - Steel - 345 MPa
+    2100054: SH_Metal - Steel
+    2100056: Door - Frame
+    2100058: Door - Panel
+    2100060: SH_Aluminum, Anodized Black
+    2100062: Glass
+    2100064: Metal - Aluminum
+    2100066: Metal - Paint Finish - Dark Gray, Matte
+    2100068: Wood_Walnut black
+    2100070: Glass, Clear Glazing
+    2100072: Default material
+    2100074: Porcelain
+    2100076: Buttons
+    2100078: Main body
+    2100080: Black panel
+    2100082: Logo
+    2100084: Door
+    2100086: Clean Steel
+    2100088: Black Glass Pan
+    2100090: Stainless Steel
+    2100092: Plastic
+    2100094: Rubber
+    2100096: Black Glass
+    2100098: Plinth
+    2100100: Fascia
+    2100102: Iron, Cast
+    2100104: Glass - Aalto - White Paint
+    2100106: Ceramic Dish
+    2100108: Juice
+    2100110: Glass - Crystal Wine Glass
+    2100112: Acetal Resin, Black
+    2100114: Stainless Steel 1
+    2100116: Silver Aluminium
+    2100118: Black Plastic
+    2100120: Lighting
+    2100122: Metal
+    2100124: Metal 2
+    2100126: Metal 1
+    2100128: Cleansteel
+    2100130: Flower
+    2100132: Stem
+    2100134: Red Vase
+    2100136: Aluminum_Green
+    2100138: Water
+    2100140: Green Glass
+    2100142: Terrazzo
+    2100144: Default
+    2100146: Chair Fabric
+    2100148: Chair wood
+    2100150: Herman Miller - Seat Fabric 8T07 Crossing Pumpkin
+    2100152: Herman Miller - Veneer Z5 Maple
+    2100154: Wood - Medium Brown
+    2100156: Metal - Stainless
+    2100158: Glass - Transparent
+    2100160: TV - Black
+    2100162: TV - Screen
+    2100164: TV - Glass
+    2100166: Herman Miller - Finish PA Polished Aluminum
+    2100168: Herman Miller - Finish 47 Trivalent Chrome
+    2100170: Leather - Tan
+    2100172: Herman Miller - Veneer OU Walnut
+    2100174: Herman Miller - Veneer UX Walnut on Cherry
+    2100176: Metal - Cooper Industries - Aluminum
+    2100178: Glass, White, High Luminance
+    2100180: Glass - SolarWorld - Tempered Glass
+    2100182: Metal - SolarWorld - BackSheet - White
+    2100184: Metal - SolarWorld - Support Framing - Silver
+    2300000: 01 Cotton
+    2300002: 0810mm
+    2300004: 1180 x 1170mm
+    2300006: 1180 x 1170mm 1
+    2300008: 150mm Foundation Slab
+    2300010: 1730 x 2134mm
+    2300012: 1800 x 900 mm
+    2300014: 1800 x 900 mm 1
+    2300016: 2.027 x 0.945
+    2300018: 2.027 x 0.945 1
+    2300020: 2.027 x 0.945 2
+    2300022: 3000 x 3000mm Grid
+    2300024: 3000 x 3000mm Grid 1
+    2300026: 4500_Kitchen Island 1
+    2300028: 4500_Kitchen Island_DW 1
+    2300030: 5000L 3500x900x1860
+    2300032: 5000L 3500x900x1860 1
+    2300034: 600 x 600 x 900mm
+    2300036: 600 x 600 x 900mm 1
+    2300038: 600 x 600 x 900mm 10
+    2300040: 600 x 600 x 900mm 2
+    2300042: 600 x 600 x 900mm 3
+    2300044: 600 x 600 x 900mm 4
+    2300046: 600 x 600 x 900mm 5
+    2300048: 600 x 600 x 900mm 6
+    2300050: 600 x 600 x 900mm 7
+    2300052: 600 x 600 x 900mm 8
+    2300054: 600 x 600 x 900mm 9
+    2300056: 600mm Diameter
+    2300058: 600mm Diameter 1
+    2300060: 600mm Diameter 10
+    2300062: 600mm Diameter 2
+    2300064: 600mm Diameter 3
+    2300066: 600mm Diameter 4
+    2300068: 600mm Diameter 5
+    2300070: 600mm Diameter 6
+    2300072: 600mm Diameter 7
+    2300074: 600mm Diameter 8
+    2300076: 600mm Diameter 9
+    2300078: 64 x 128 rectangular
+    2300080: 64 x 128 rectangular 1
+    2300082: 64 x 128 rectangular 10
+    2300084: 64 x 128 rectangular 100
+    2300086: 64 x 128 rectangular 101
+    2300088: 64 x 128 rectangular 102
+    2300090: 64 x 128 rectangular 103
+    2300092: 64 x 128 rectangular 104
+    2300094: 64 x 128 rectangular 105
+    2300096: 64 x 128 rectangular 106
+    2300098: 64 x 128 rectangular 107
+    2300100: 64 x 128 rectangular 108
+    2300102: 64 x 128 rectangular 109
+    2300104: 64 x 128 rectangular 11
+    2300106: 64 x 128 rectangular 110
+    2300108: 64 x 128 rectangular 111
+    2300110: 64 x 128 rectangular 112
+    2300112: 64 x 128 rectangular 113
+    2300114: 64 x 128 rectangular 114
+    2300116: 64 x 128 rectangular 115
+    2300118: 64 x 128 rectangular 116
+    2300120: 64 x 128 rectangular 117
+    2300122: 64 x 128 rectangular 118
+    2300124: 64 x 128 rectangular 119
+    2300126: 64 x 128 rectangular 12
+    2300128: 64 x 128 rectangular 120
+    2300130: 64 x 128 rectangular 121
+    2300132: 64 x 128 rectangular 122
+    2300134: 64 x 128 rectangular 123
+    2300136: 64 x 128 rectangular 124
+    2300138: 64 x 128 rectangular 125
+    2300140: 64 x 128 rectangular 126
+    2300142: 64 x 128 rectangular 127
+    2300144: 64 x 128 rectangular 128
+    2300146: 64 x 128 rectangular 129
+    2300148: 64 x 128 rectangular 13
+    2300150: 64 x 128 rectangular 130
+    2300152: 64 x 128 rectangular 131
+    2300154: 64 x 128 rectangular 132
+    2300156: 64 x 128 rectangular 133
+    2300158: 64 x 128 rectangular 134
+    2300160: 64 x 128 rectangular 135
+    2300162: 64 x 128 rectangular 136
+    2300164: 64 x 128 rectangular 137
+    2300166: 64 x 128 rectangular 138
+    2300168: 64 x 128 rectangular 139
+    2300170: 64 x 128 rectangular 14
+    2300172: 64 x 128 rectangular 140
+    2300174: 64 x 128 rectangular 141
+    2300176: 64 x 128 rectangular 15
+    2300178: 64 x 128 rectangular 16
+    2300180: 64 x 128 rectangular 17
+    2300182: 64 x 128 rectangular 18
+    2300184: 64 x 128 rectangular 19
+    2300186: 64 x 128 rectangular 2
+    2300188: 64 x 128 rectangular 20
+    2300190: 64 x 128 rectangular 21
+    2300192: 64 x 128 rectangular 22
+    2300194: 64 x 128 rectangular 23
+    2300196: 64 x 128 rectangular 24
+    2300198: 64 x 128 rectangular 25
+    2300200: 64 x 128 rectangular 26
+    2300202: 64 x 128 rectangular 27
+    2300204: 64 x 128 rectangular 28
+    2300206: 64 x 128 rectangular 29
+    2300208: 64 x 128 rectangular 3
+    2300210: 64 x 128 rectangular 30
+    2300212: 64 x 128 rectangular 31
+    2300214: 64 x 128 rectangular 32
+    2300216: 64 x 128 rectangular 33
+    2300218: 64 x 128 rectangular 34
+    2300220: 64 x 128 rectangular 35
+    2300222: 64 x 128 rectangular 36
+    2300224: 64 x 128 rectangular 37
+    2300226: 64 x 128 rectangular 38
+    2300228: 64 x 128 rectangular 39
+    2300230: 64 x 128 rectangular 4
+    2300232: 64 x 128 rectangular 40
+    2300234: 64 x 128 rectangular 41
+    2300236: 64 x 128 rectangular 42
+    2300238: 64 x 128 rectangular 43
+    2300240: 64 x 128 rectangular 44
+    2300242: 64 x 128 rectangular 45
+    2300244: 64 x 128 rectangular 46
+    2300246: 64 x 128 rectangular 47
+    2300248: 64 x 128 rectangular 48
+    2300250: 64 x 128 rectangular 49
+    2300252: 64 x 128 rectangular 5
+    2300254: 64 x 128 rectangular 50
+    2300256: 64 x 128 rectangular 51
+    2300258: 64 x 128 rectangular 52
+    2300260: 64 x 128 rectangular 53
+    2300262: 64 x 128 rectangular 54
+    2300264: 64 x 128 rectangular 55
+    2300266: 64 x 128 rectangular 56
+    2300268: 64 x 128 rectangular 57
+    2300270: 64 x 128 rectangular 58
+    2300272: 64 x 128 rectangular 59
+    2300274: 64 x 128 rectangular 6
+    2300276: 64 x 128 rectangular 60
+    2300278: 64 x 128 rectangular 61
+    2300280: 64 x 128 rectangular 62
+    2300282: 64 x 128 rectangular 63
+    2300284: 64 x 128 rectangular 64
+    2300286: 64 x 128 rectangular 65
+    2300288: 64 x 128 rectangular 66
+    2300290: 64 x 128 rectangular 67
+    2300292: 64 x 128 rectangular 68
+    2300294: 64 x 128 rectangular 69
+    2300296: 64 x 128 rectangular 7
+    2300298: 64 x 128 rectangular 70
+    2300300: 64 x 128 rectangular 71
+    2300302: 64 x 128 rectangular 72
+    2300304: 64 x 128 rectangular 73
+    2300306: 64 x 128 rectangular 74
+    2300308: 64 x 128 rectangular 75
+    2300310: 64 x 128 rectangular 76
+    2300312: 64 x 128 rectangular 77
+    2300314: 64 x 128 rectangular 78
+    2300316: 64 x 128 rectangular 79
+    2300318: 64 x 128 rectangular 8
+    2300320: 64 x 128 rectangular 80
+    2300322: 64 x 128 rectangular 81
+    2300324: 64 x 128 rectangular 82
+    2300326: 64 x 128 rectangular 83
+    2300328: 64 x 128 rectangular 84
+    2300330: 64 x 128 rectangular 85
+    2300332: 64 x 128 rectangular 86
+    2300334: 64 x 128 rectangular 87
+    2300336: 64 x 128 rectangular 88
+    2300338: 64 x 128 rectangular 89
+    2300340: 64 x 128 rectangular 9
+    2300342: 64 x 128 rectangular 90
+    2300344: 64 x 128 rectangular 91
+    2300346: 64 x 128 rectangular 92
+    2300348: 64 x 128 rectangular 93
+    2300350: 64 x 128 rectangular 94
+    2300352: 64 x 128 rectangular 95
+    2300354: 64 x 128 rectangular 96
+    2300356: 64 x 128 rectangular 97
+    2300358: 64 x 128 rectangular 98
+    2300360: 64 x 128 rectangular 99
+    2300362: 800 x 2100
+    2300364: 800 x 2100 1
+    2300366: 800 x 2100 2
+    2300368: 800 x 2100 3
+    2300370: 800 x 2100 4
+    2300372: 800 x 2100 5
+    2300374: 800 x 2100 6
+    2300376: 9 Meters High
+    2300378: 9 Meters High 1
+    2300380: 9 Meters High 2
+    2300382: Alex
+    2300384: Bar Chair 1
+    2300386: Bar Chair 2
+    2300388: Bar Chair 3
+    2300390: Bar Chair 4
+    2300392: Bar Chair 5
+    2300394: Bar Chair 6
+    2300396: Cavity wall_sliders
+    2300398: Chrome-Polished_Chrome-CP
+    2300400: CL_W1
+    2300402: CL_W1 1
+    2300404: CL_W1 2
+    2300406: CL_W1 3
+    2300408: CL_W1 4
+    2300410: CL_W1 5
+    2300412: Concrete-Domestic 425mm
+    2300414: Curtain Wall Dbl Glass 1
+    2300416: Curtain Wall Dbl Glass 2
+    2300418: Curtain Wall Dbl Glass 3
+    2300420: Dining Chair (3) 1
+    2300422: Dining Chair (3) 2
+    2300424: Dining Chair (3) 3
+    2300426: Dining Chair (3) 4
+    2300428: Dining Chair (3) 5
+    2300430: Dining Chair (3) 6
+    2300432: Dining Chair (3) 7
+    2300434: Dining Chair (3) 8
+    2300436: Entrance door 1
+    2300438: Entrance door 2
+    2300440: Fine China - Plate
+    2300442: Fine China - Plate 1
+    2300444: Fine China - Plate 2
+    2300446: Fine China - Plate 3
+    2300448: Fine China - Plate 4
+    2300450: Fine China - Plate 5
+    2300452: Fine China - Plate 6
+    2300454: Fine China - Plate 7
+    2300456: fire place hang 1
+    2300458: Foundation - 300mm Concrete
+    2300460: Generic 150mm
+    2300462: Generic 150mm 1
+    2300464: Generic 300
+    2300466: Generic 300 1
+    2300468: Glazed
+    2300470: Glazed 1
+    2300472: Glazed 10
+    2300474: Glazed 11
+    2300476: Glazed 12
+    2300478: Glazed 13
+    2300480: Glazed 14
+    2300482: Glazed 15
+    2300484: Glazed 16
+    2300486: Glazed 17
+    2300488: Glazed 18
+    2300490: Glazed 19
+    2300492: Glazed 2
+    2300494: Glazed 20
+    2300496: Glazed 21
+    2300498: Glazed 22
+    2300500: Glazed 23
+    2300502: Glazed 24
+    2300504: Glazed 25
+    2300506: Glazed 26
+    2300508: Glazed 27
+    2300510: Glazed 28
+    2300512: Glazed 29
+    2300514: Glazed 3
+    2300516: Glazed 30
+    2300518: Glazed 31
+    2300520: Glazed 32
+    2300522: Glazed 33
+    2300524: Glazed 34
+    2300526: Glazed 35
+    2300528: Glazed 36
+    2300530: Glazed 37
+    2300532: Glazed 38
+    2300534: Glazed 39
+    2300536: Glazed 4
+    2300538: Glazed 40
+    2300540: Glazed 41
+    2300542: Glazed 42
+    2300544: Glazed 43
+    2300546: Glazed 5
+    2300548: Glazed 6
+    2300550: Glazed 7
+    2300552: Glazed 8
+    2300554: Glazed 9
+    2300556: Honey Locust - 25'
+    2300558: Honey Locust - 25' 1
+    2300560: Honey Locust - 25' 2
+    2300562: hood enclosure 1
+    2300564: Insitu Concrete 225mm
+    2300566: Insitu Concrete 225mm 1
+    2300568: Interior - 165 Partition (1-hr)
+    2300570: Interior - 165 Partition (1-hr) 1
+    2300572: Interior - 165 Partition (1-hr) 2
+    2300574: Interior - Partition
+    2300576: Interior - Partition 1
+    2300578: Interior - Partition 10
+    2300580: Interior - Partition 11
+    2300582: Interior - Partition 12
+    2300584: Interior - Partition 13
+    2300586: Interior - Partition 2
+    2300588: Interior - Partition 3
+    2300590: Interior - Partition 4
+    2300592: Interior - Partition 5
+    2300594: Interior - Partition 6
+    2300596: Interior - Partition 7
+    2300598: Interior - Partition 8
+    2300600: Interior - Partition 9
+    2300602: L127X127X9.5
+    2300604: L127X127X9.5 1
+    2300606: Lombardy Poplar - 40'
+    2300608: M_1000
+    2300610: M_RPC Beetle 1
+    2300612: Miele Built-under Dishwasher G 4101 U CS 1
+    2300614: Miele Fridge/Freezer KF 1911 Vi
+    2300616: Miele Induction Cooktop 6350 LPT
+    2300618: Miele Microwave M 8260-2
+    2300620: Miele Oven H 5681 BP 1
+    2300622: Miele Tumble Dryer T 7944 C 1
+    2300624: Miele Washing Machine W 5820 WPS 1
+    2300626: Model with Island
+    2300628: P-D-66N28T8
+    2300630: P-D-66N28T8 1
+    2300632: Pad 2
+    2300634: Pad 2 1
+    2300636: Rangehood DA-2210
+    2300638: Rectangular - 50x50mm
+    2300640: Rectangular - 50x50mm 1
+    2300642: Rectangular - 50x50mm 2
+    2300644: Rectangular - 50x50mm 3
+    2300646: Rectangular - 50x50mm 4
+    2300648: Rectangular - 50x50mm 5
+    2300650: Rectangular - 50x50mm 6
+    2300652: Rectangular - 50x50mm 7
+    2300654: Rectangular - 50x50mm 8
+    2300656: Rectangular - 50x50mm 9
+    2300658: Red Ash - 25'
+    2300660: Retaining - 300mm Concrete
+    2300662: Retaining - 300mm Concrete 1
+    2300664: Retaining - 300mm Concrete 2
+    2300666: Retaining - 300mm Concrete 3
+    2300668: Retaining - 300mm Concrete 4
+    2300670: Retaining - 300mm Concrete 5
+    2300672: Retaining - 300mm Concrete 6
+    2300674: Retaining - 300mm Concrete 7
+    2300676: Retaining - 300mm Concrete 8
+    2300678: Seating - Artemis - Lounge chair 1
+    2300680: Seating - Artemis - Lounge chair 2
+    2300682: SG Metal Panels roof
+    2300684: SH_1100mm
+    2300686: SH_1100mm 1
+    2300688: SH_1100mm 2
+    2300690: SH_1100mm 3
+    2300692: SH_1100mm 4
+    2300694: SH_1100mm 5
+    2300696: SH_1100mm 6
+    2300698: SH_1100mm 7
+    2300700: SH_1100mm 8
+    2300702: SH_1100mm 9
+    2300704: Side Table 2 (2) 1
+    2300706: Side Table 2 (2) 2
+    2300708: SIP 202mm Wall - conc clad
+    2300710: SIP 202mm Wall - conc clad 1
+    2300712: SIP 202mm Wall - conc clad 2
+    2300714: SIP 202mm Wall - conc clad 3
+    2300716: Solarworld Sunmodule Plus
+    2300718: Solarworld Sunmodule Plus 1
+    2300720: Solarworld Sunmodule Plus 10
+    2300722: Solarworld Sunmodule Plus 11
+    2300724: Solarworld Sunmodule Plus 2
+    2300726: Solarworld Sunmodule Plus 3
+    2300728: Solarworld Sunmodule Plus 4
+    2300730: Solarworld Sunmodule Plus 5
+    2300732: Solarworld Sunmodule Plus 6
+    2300734: Solarworld Sunmodule Plus 7
+    2300736: Solarworld Sunmodule Plus 8
+    2300738: Solarworld Sunmodule Plus 9
+    2300740: Stair
+    2300742: Stair 1
+    2300744: Stair 2
+    2300746: Standard
+    2300748: Standard 1
+    2300750: Standard 10
+    2300752: Standard 11
+    2300754: Standard 12
+    2300756: Standard 13
+    2300758: Standard 14
+    2300760: Standard 15
+    2300762: Standard 16
+    2300764: Standard 17
+    2300766: Standard 18
+    2300768: Standard 2
+    2300770: Standard 3
+    2300772: Standard 4
+    2300774: Standard 5
+    2300776: Standard 6
+    2300778: Standard 7
+    2300780: Standard 8
+    2300782: Standard 9
+    2300784: Steel-Stainless-NA
+    2300786: Surface
+    2300788: Surface 1
+    2300790: Surface 2
+    2300792: Timber Suspended Floor
+    2300794: Trck_BswySystms_Cooper_RSA_Profile Series_AR111 Closed Back Integral
+      Xfmr 1
+    2300796: Trck_BswySystms_Cooper_RSA_Profile Series_AR111 Closed Back Integral
+      Xfmr 2
+    2300798: Trck_BswySystms_Cooper_RSA_Profile Series_AR111 Closed Back Integral
+      Xfmr 3
+    2300800: Trck_BswySystms_Cooper_RSA_Profile Series_AR111 Closed Back Integral
+      Xfmr 4
+    2300802: Trck_BswySystms_Cooper_RSA_Profile Series_AR111 Closed Back Integral
+      Xfmr 5
+    2300804: Trck_BswySystms_Cooper_RSA_Profile Series_AR111 Closed Back Integral
+      Xfmr 6
+    2300806: Trck_BswySystms_Cooper_RSA_Profile Series_AR111 Closed Back Integral
+      Xfmr 7
+    2300808: Trck_BswySystms_Cooper_RSA_Profile Series_AR111 Closed Back Integral
+      Xfmr 8
+    2300810: Vase (3)-with Flower 1
+    2300812: W1500XD400XH530
+    2300814: W600XD600
+    2300816: W600XD600 1
+    2300818: W600XD600 2
+    2300820: W600XD600 2 1
+    2300822: W600XD600 2 1 1
+    2300824: W600XD600 3
+    2300826: W600XD600 4
+    2300828: Wall - Timber Clad
+    2300830: Wall - Timber Clad 1
+    2300832: Wall - Timber Clad 2
+    2300834: Wall - Timber Clad 3
+    2300836: Wall - Timber Clad 4
+    2300838: Wall - Timber Clad 5
+    2300840: Wall - Timber Clad 6
+    2300842: Wall - Timber Clad 7
+    2300844: Walvit
+    2300846: Walvit 1
+    2300848: Walvit 2
+    2300850: Walvit 3
+    2300852: wardrobe
+    2300854: wardrobe 1
+    2300856: Warm Roof - Timber
+    2300858: Water Glass 1
+    2300860: Water Glass 2
+    2300862: Water Glass 3
+    2300864: Water Glass 4
+    2300866: Water Glass 5
+    2300868: Water Glass 6
+    2300870: Water Glass 7
+    2300872: Water Glass 8
+    2300874: White
+    2300876: Wine Bottles 1
+    2300878: YinYin
+    2300880: YinYin 1
+    2300882: YinYin 2
+    3300000: 01 Cotton
+    3300002: 0810mm
+    3300004: 1180 x 1170mm
+    3300006: 1180 x 1170mm 1
+    3300008: 150mm Foundation Slab
+    3300010: 1730 x 2134mm
+    3300012: 1800 x 900 mm
+    3300014: 1800 x 900 mm 1
+    3300016: 2.027 x 0.945
+    3300018: 2.027 x 0.945 1
+    3300020: 2.027 x 0.945 2
+    3300022: 3000 x 3000mm Grid
+    3300024: 3000 x 3000mm Grid 1
+    3300026: 4500_Kitchen Island 1
+    3300028: 4500_Kitchen Island_DW 1
+    3300030: 5000L 3500x900x1860
+    3300032: 5000L 3500x900x1860 1
+    3300034: 600 x 600 x 900mm
+    3300036: 600 x 600 x 900mm 1
+    3300038: 600 x 600 x 900mm 10
+    3300040: 600 x 600 x 900mm 2
+    3300042: 600 x 600 x 900mm 3
+    3300044: 600 x 600 x 900mm 4
+    3300046: 600 x 600 x 900mm 5
+    3300048: 600 x 600 x 900mm 6
+    3300050: 600 x 600 x 900mm 7
+    3300052: 600 x 600 x 900mm 8
+    3300054: 600 x 600 x 900mm 9
+    3300056: 600mm Diameter
+    3300058: 600mm Diameter 1
+    3300060: 600mm Diameter 10
+    3300062: 600mm Diameter 2
+    3300064: 600mm Diameter 3
+    3300066: 600mm Diameter 4
+    3300068: 600mm Diameter 5
+    3300070: 600mm Diameter 6
+    3300072: 600mm Diameter 7
+    3300074: 600mm Diameter 8
+    3300076: 600mm Diameter 9
+    3300078: 64 x 128 rectangular
+    3300080: 64 x 128 rectangular 1
+    3300082: 64 x 128 rectangular 10
+    3300084: 64 x 128 rectangular 100
+    3300086: 64 x 128 rectangular 101
+    3300088: 64 x 128 rectangular 102
+    3300090: 64 x 128 rectangular 103
+    3300092: 64 x 128 rectangular 104
+    3300094: 64 x 128 rectangular 105
+    3300096: 64 x 128 rectangular 106
+    3300098: 64 x 128 rectangular 107
+    3300100: 64 x 128 rectangular 108
+    3300102: 64 x 128 rectangular 109
+    3300104: 64 x 128 rectangular 11
+    3300106: 64 x 128 rectangular 110
+    3300108: 64 x 128 rectangular 111
+    3300110: 64 x 128 rectangular 112
+    3300112: 64 x 128 rectangular 113
+    3300114: 64 x 128 rectangular 114
+    3300116: 64 x 128 rectangular 115
+    3300118: 64 x 128 rectangular 116
+    3300120: 64 x 128 rectangular 117
+    3300122: 64 x 128 rectangular 118
+    3300124: 64 x 128 rectangular 119
+    3300126: 64 x 128 rectangular 12
+    3300128: 64 x 128 rectangular 120
+    3300130: 64 x 128 rectangular 121
+    3300132: 64 x 128 rectangular 122
+    3300134: 64 x 128 rectangular 123
+    3300136: 64 x 128 rectangular 124
+    3300138: 64 x 128 rectangular 125
+    3300140: 64 x 128 rectangular 126
+    3300142: 64 x 128 rectangular 127
+    3300144: 64 x 128 rectangular 128
+    3300146: 64 x 128 rectangular 129
+    3300148: 64 x 128 rectangular 13
+    3300150: 64 x 128 rectangular 130
+    3300152: 64 x 128 rectangular 131
+    3300154: 64 x 128 rectangular 132
+    3300156: 64 x 128 rectangular 133
+    3300158: 64 x 128 rectangular 134
+    3300160: 64 x 128 rectangular 135
+    3300162: 64 x 128 rectangular 136
+    3300164: 64 x 128 rectangular 137
+    3300166: 64 x 128 rectangular 138
+    3300168: 64 x 128 rectangular 139
+    3300170: 64 x 128 rectangular 14
+    3300172: 64 x 128 rectangular 140
+    3300174: 64 x 128 rectangular 141
+    3300176: 64 x 128 rectangular 15
+    3300178: 64 x 128 rectangular 16
+    3300180: 64 x 128 rectangular 17
+    3300182: 64 x 128 rectangular 18
+    3300184: 64 x 128 rectangular 19
+    3300186: 64 x 128 rectangular 2
+    3300188: 64 x 128 rectangular 20
+    3300190: 64 x 128 rectangular 21
+    3300192: 64 x 128 rectangular 22
+    3300194: 64 x 128 rectangular 23
+    3300196: 64 x 128 rectangular 24
+    3300198: 64 x 128 rectangular 25
+    3300200: 64 x 128 rectangular 26
+    3300202: 64 x 128 rectangular 27
+    3300204: 64 x 128 rectangular 28
+    3300206: 64 x 128 rectangular 29
+    3300208: 64 x 128 rectangular 3
+    3300210: 64 x 128 rectangular 30
+    3300212: 64 x 128 rectangular 31
+    3300214: 64 x 128 rectangular 32
+    3300216: 64 x 128 rectangular 33
+    3300218: 64 x 128 rectangular 34
+    3300220: 64 x 128 rectangular 35
+    3300222: 64 x 128 rectangular 36
+    3300224: 64 x 128 rectangular 37
+    3300226: 64 x 128 rectangular 38
+    3300228: 64 x 128 rectangular 39
+    3300230: 64 x 128 rectangular 4
+    3300232: 64 x 128 rectangular 40
+    3300234: 64 x 128 rectangular 41
+    3300236: 64 x 128 rectangular 42
+    3300238: 64 x 128 rectangular 43
+    3300240: 64 x 128 rectangular 44
+    3300242: 64 x 128 rectangular 45
+    3300244: 64 x 128 rectangular 46
+    3300246: 64 x 128 rectangular 47
+    3300248: 64 x 128 rectangular 48
+    3300250: 64 x 128 rectangular 49
+    3300252: 64 x 128 rectangular 5
+    3300254: 64 x 128 rectangular 50
+    3300256: 64 x 128 rectangular 51
+    3300258: 64 x 128 rectangular 52
+    3300260: 64 x 128 rectangular 53
+    3300262: 64 x 128 rectangular 54
+    3300264: 64 x 128 rectangular 55
+    3300266: 64 x 128 rectangular 56
+    3300268: 64 x 128 rectangular 57
+    3300270: 64 x 128 rectangular 58
+    3300272: 64 x 128 rectangular 59
+    3300274: 64 x 128 rectangular 6
+    3300276: 64 x 128 rectangular 60
+    3300278: 64 x 128 rectangular 61
+    3300280: 64 x 128 rectangular 62
+    3300282: 64 x 128 rectangular 63
+    3300284: 64 x 128 rectangular 64
+    3300286: 64 x 128 rectangular 65
+    3300288: 64 x 128 rectangular 66
+    3300290: 64 x 128 rectangular 67
+    3300292: 64 x 128 rectangular 68
+    3300294: 64 x 128 rectangular 69
+    3300296: 64 x 128 rectangular 7
+    3300298: 64 x 128 rectangular 70
+    3300300: 64 x 128 rectangular 71
+    3300302: 64 x 128 rectangular 72
+    3300304: 64 x 128 rectangular 73
+    3300306: 64 x 128 rectangular 74
+    3300308: 64 x 128 rectangular 75
+    3300310: 64 x 128 rectangular 76
+    3300312: 64 x 128 rectangular 77
+    3300314: 64 x 128 rectangular 78
+    3300316: 64 x 128 rectangular 79
+    3300318: 64 x 128 rectangular 8
+    3300320: 64 x 128 rectangular 80
+    3300322: 64 x 128 rectangular 81
+    3300324: 64 x 128 rectangular 82
+    3300326: 64 x 128 rectangular 83
+    3300328: 64 x 128 rectangular 84
+    3300330: 64 x 128 rectangular 85
+    3300332: 64 x 128 rectangular 86
+    3300334: 64 x 128 rectangular 87
+    3300336: 64 x 128 rectangular 88
+    3300338: 64 x 128 rectangular 89
+    3300340: 64 x 128 rectangular 9
+    3300342: 64 x 128 rectangular 90
+    3300344: 64 x 128 rectangular 91
+    3300346: 64 x 128 rectangular 92
+    3300348: 64 x 128 rectangular 93
+    3300350: 64 x 128 rectangular 94
+    3300352: 64 x 128 rectangular 95
+    3300354: 64 x 128 rectangular 96
+    3300356: 64 x 128 rectangular 97
+    3300358: 64 x 128 rectangular 98
+    3300360: 64 x 128 rectangular 99
+    3300362: 800 x 2100
+    3300364: 800 x 2100 1
+    3300366: 800 x 2100 2
+    3300368: 800 x 2100 3
+    3300370: 800 x 2100 4
+    3300372: 800 x 2100 5
+    3300374: 800 x 2100 6
+    3300376: 9 Meters High
+    3300378: 9 Meters High 1
+    3300380: 9 Meters High 2
+    3300382: Alex
+    3300384: Bar Chair 1
+    3300386: Bar Chair 2
+    3300388: Bar Chair 3
+    3300390: Bar Chair 4
+    3300392: Bar Chair 5
+    3300394: Bar Chair 6
+    3300396: Cavity wall_sliders
+    3300398: Chrome-Polished_Chrome-CP
+    3300400: CL_W1
+    3300402: CL_W1 1
+    3300404: CL_W1 2
+    3300406: CL_W1 3
+    3300408: CL_W1 4
+    3300410: CL_W1 5
+    3300412: Concrete-Domestic 425mm
+    3300414: Curtain Wall Dbl Glass 1
+    3300416: Curtain Wall Dbl Glass 2
+    3300418: Curtain Wall Dbl Glass 3
+    3300420: Dining Chair (3) 1
+    3300422: Dining Chair (3) 2
+    3300424: Dining Chair (3) 3
+    3300426: Dining Chair (3) 4
+    3300428: Dining Chair (3) 5
+    3300430: Dining Chair (3) 6
+    3300432: Dining Chair (3) 7
+    3300434: Dining Chair (3) 8
+    3300436: Entrance door 1
+    3300438: Entrance door 2
+    3300440: Fine China - Plate
+    3300442: Fine China - Plate 1
+    3300444: Fine China - Plate 2
+    3300446: Fine China - Plate 3
+    3300448: Fine China - Plate 4
+    3300450: Fine China - Plate 5
+    3300452: Fine China - Plate 6
+    3300454: Fine China - Plate 7
+    3300456: fire place hang 1
+    3300458: Foundation - 300mm Concrete
+    3300460: Generic 150mm
+    3300462: Generic 150mm 1
+    3300464: Generic 300
+    3300466: Generic 300 1
+    3300468: Glazed
+    3300470: Glazed 1
+    3300472: Glazed 10
+    3300474: Glazed 11
+    3300476: Glazed 12
+    3300478: Glazed 13
+    3300480: Glazed 14
+    3300482: Glazed 15
+    3300484: Glazed 16
+    3300486: Glazed 17
+    3300488: Glazed 18
+    3300490: Glazed 19
+    3300492: Glazed 2
+    3300494: Glazed 20
+    3300496: Glazed 21
+    3300498: Glazed 22
+    3300500: Glazed 23
+    3300502: Glazed 24
+    3300504: Glazed 25
+    3300506: Glazed 26
+    3300508: Glazed 27
+    3300510: Glazed 28
+    3300512: Glazed 29
+    3300514: Glazed 3
+    3300516: Glazed 30
+    3300518: Glazed 31
+    3300520: Glazed 32
+    3300522: Glazed 33
+    3300524: Glazed 34
+    3300526: Glazed 35
+    3300528: Glazed 36
+    3300530: Glazed 37
+    3300532: Glazed 38
+    3300534: Glazed 39
+    3300536: Glazed 4
+    3300538: Glazed 40
+    3300540: Glazed 41
+    3300542: Glazed 42
+    3300544: Glazed 43
+    3300546: Glazed 5
+    3300548: Glazed 6
+    3300550: Glazed 7
+    3300552: Glazed 8
+    3300554: Glazed 9
+    3300556: Honey Locust - 25'
+    3300558: Honey Locust - 25' 1
+    3300560: Honey Locust - 25' 2
+    3300562: hood enclosure 1
+    3300564: Insitu Concrete 225mm
+    3300566: Insitu Concrete 225mm 1
+    3300568: Interior - 165 Partition (1-hr)
+    3300570: Interior - 165 Partition (1-hr) 1
+    3300572: Interior - 165 Partition (1-hr) 2
+    3300574: Interior - Partition
+    3300576: Interior - Partition 1
+    3300578: Interior - Partition 10
+    3300580: Interior - Partition 11
+    3300582: Interior - Partition 12
+    3300584: Interior - Partition 13
+    3300586: Interior - Partition 2
+    3300588: Interior - Partition 3
+    3300590: Interior - Partition 4
+    3300592: Interior - Partition 5
+    3300594: Interior - Partition 6
+    3300596: Interior - Partition 7
+    3300598: Interior - Partition 8
+    3300600: Interior - Partition 9
+    3300602: L127X127X9.5
+    3300604: L127X127X9.5 1
+    3300606: Lombardy Poplar - 40'
+    3300608: M_1000
+    3300610: M_RPC Beetle 1
+    3300612: Miele Built-under Dishwasher G 4101 U CS 1
+    3300614: Miele Fridge/Freezer KF 1911 Vi
+    3300616: Miele Induction Cooktop 6350 LPT
+    3300618: Miele Microwave M 8260-2
+    3300620: Miele Oven H 5681 BP 1
+    3300622: Miele Tumble Dryer T 7944 C 1
+    3300624: Miele Washing Machine W 5820 WPS 1
+    3300626: Model with Island
+    3300628: P-D-66N28T8
+    3300630: P-D-66N28T8 1
+    3300632: Pad 2
+    3300634: Pad 2 1
+    3300636: Rangehood DA-2210
+    3300638: Rectangular - 50x50mm
+    3300640: Rectangular - 50x50mm 1
+    3300642: Rectangular - 50x50mm 2
+    3300644: Rectangular - 50x50mm 3
+    3300646: Rectangular - 50x50mm 4
+    3300648: Rectangular - 50x50mm 5
+    3300650: Rectangular - 50x50mm 6
+    3300652: Rectangular - 50x50mm 7
+    3300654: Rectangular - 50x50mm 8
+    3300656: Rectangular - 50x50mm 9
+    3300658: Red Ash - 25'
+    3300660: Retaining - 300mm Concrete
+    3300662: Retaining - 300mm Concrete 1
+    3300664: Retaining - 300mm Concrete 2
+    3300666: Retaining - 300mm Concrete 3
+    3300668: Retaining - 300mm Concrete 4
+    3300670: Retaining - 300mm Concrete 5
+    3300672: Retaining - 300mm Concrete 6
+    3300674: Retaining - 300mm Concrete 7
+    3300676: Retaining - 300mm Concrete 8
+    3300678: Seating - Artemis - Lounge chair 1
+    3300680: Seating - Artemis - Lounge chair 2
+    3300682: SG Metal Panels roof
+    3300684: SH_1100mm
+    3300686: SH_1100mm 1
+    3300688: SH_1100mm 2
+    3300690: SH_1100mm 3
+    3300692: SH_1100mm 4
+    3300694: SH_1100mm 5
+    3300696: SH_1100mm 6
+    3300698: SH_1100mm 7
+    3300700: SH_1100mm 8
+    3300702: SH_1100mm 9
+    3300704: Side Table 2 (2) 1
+    3300706: Side Table 2 (2) 2
+    3300708: SIP 202mm Wall - conc clad
+    3300710: SIP 202mm Wall - conc clad 1
+    3300712: SIP 202mm Wall - conc clad 2
+    3300714: SIP 202mm Wall - conc clad 3
+    3300716: Solarworld Sunmodule Plus
+    3300718: Solarworld Sunmodule Plus 1
+    3300720: Solarworld Sunmodule Plus 10
+    3300722: Solarworld Sunmodule Plus 11
+    3300724: Solarworld Sunmodule Plus 2
+    3300726: Solarworld Sunmodule Plus 3
+    3300728: Solarworld Sunmodule Plus 4
+    3300730: Solarworld Sunmodule Plus 5
+    3300732: Solarworld Sunmodule Plus 6
+    3300734: Solarworld Sunmodule Plus 7
+    3300736: Solarworld Sunmodule Plus 8
+    3300738: Solarworld Sunmodule Plus 9
+    3300740: Stair
+    3300742: Stair 1
+    3300744: Stair 2
+    3300746: Standard
+    3300748: Standard 1
+    3300750: Standard 10
+    3300752: Standard 11
+    3300754: Standard 12
+    3300756: Standard 13
+    3300758: Standard 14
+    3300760: Standard 15
+    3300762: Standard 16
+    3300764: Standard 17
+    3300766: Standard 18
+    3300768: Standard 2
+    3300770: Standard 3
+    3300772: Standard 4
+    3300774: Standard 5
+    3300776: Standard 6
+    3300778: Standard 7
+    3300780: Standard 8
+    3300782: Standard 9
+    3300784: Steel-Stainless-NA
+    3300786: Surface
+    3300788: Surface 1
+    3300790: Surface 2
+    3300792: Timber Suspended Floor
+    3300794: Trck_BswySystms_Cooper_RSA_Profile Series_AR111 Closed Back Integral
+      Xfmr 1
+    3300796: Trck_BswySystms_Cooper_RSA_Profile Series_AR111 Closed Back Integral
+      Xfmr 2
+    3300798: Trck_BswySystms_Cooper_RSA_Profile Series_AR111 Closed Back Integral
+      Xfmr 3
+    3300800: Trck_BswySystms_Cooper_RSA_Profile Series_AR111 Closed Back Integral
+      Xfmr 4
+    3300802: Trck_BswySystms_Cooper_RSA_Profile Series_AR111 Closed Back Integral
+      Xfmr 5
+    3300804: Trck_BswySystms_Cooper_RSA_Profile Series_AR111 Closed Back Integral
+      Xfmr 6
+    3300806: Trck_BswySystms_Cooper_RSA_Profile Series_AR111 Closed Back Integral
+      Xfmr 7
+    3300808: Trck_BswySystms_Cooper_RSA_Profile Series_AR111 Closed Back Integral
+      Xfmr 8
+    3300810: Vase (3)-with Flower 1
+    3300812: W1500XD400XH530
+    3300814: W600XD600
+    3300816: W600XD600 1
+    3300818: W600XD600 2
+    3300820: W600XD600 2 1
+    3300822: W600XD600 2 1 1
+    3300824: W600XD600 3
+    3300826: W600XD600 4
+    3300828: Wall - Timber Clad
+    3300830: Wall - Timber Clad 1
+    3300832: Wall - Timber Clad 2
+    3300834: Wall - Timber Clad 3
+    3300836: Wall - Timber Clad 4
+    3300838: Wall - Timber Clad 5
+    3300840: Wall - Timber Clad 6
+    3300842: Wall - Timber Clad 7
+    3300844: Walvit
+    3300846: Walvit 1
+    3300848: Walvit 2
+    3300850: Walvit 3
+    3300852: wardrobe
+    3300854: wardrobe 1
+    3300856: Warm Roof - Timber
+    3300858: Water Glass 1
+    3300860: Water Glass 2
+    3300862: Water Glass 3
+    3300864: Water Glass 4
+    3300866: Water Glass 5
+    3300868: Water Glass 6
+    3300870: Water Glass 7
+    3300872: Water Glass 8
+    3300874: White
+    3300876: Wine Bottles 1
+    3300878: YinYin
+    3300880: YinYin 1
+    3300882: YinYin 2
+    4300000: Generic 150mm
+    4300002: Generic 300
+    4300004: Concrete-Domestic 425mm
+    4300006: Timber Suspended Floor
+    4300008: Generic 300
+    4300010: Generic 150mm
+    4300012: Insitu Concrete 225mm
+    4300014: Insitu Concrete 225mm
+    4300016: SIP 202mm Wall - conc clad
+    4300018: Wall - Timber Clad
+    4300020: Wall - Timber Clad
+    4300022: Wall - Timber Clad
+    4300024: Wall - Timber Clad
+    4300026: Interior - 165 Partition (1-hr)
+    4300028: Interior - 165 Partition (1-hr)
+    4300030: Wall - Timber Clad
+    4300032: SIP 202mm Wall - conc clad
+    4300034: SIP 202mm Wall - conc clad
+    4300036: Interior - Partition
+    4300038: Interior - Partition
+    4300040: Interior - Partition
+    4300042: Interior - Partition
+    4300044: Interior - Partition
+    4300046: Interior - Partition
+    4300048: CL_W1
+    4300050: CL_W1
+    4300052: CL_W1
+    4300054: Foundation - 300mm Concrete
+    4300056: Interior - Partition
+    4300058: Interior - Partition
+    4300060: Interior - Partition
+    4300062: SIP 202mm Wall - conc clad
+    4300064: Retaining - 300mm Concrete
+    4300066: Retaining - 300mm Concrete
+    4300068: CL_W1
+    4300070: CL_W1
+    4300072: CL_W1
+    4300074: Wall - Timber Clad
+    4300076: Retaining - 300mm Concrete
+    4300078: Retaining - 300mm Concrete
+    4300080: Retaining - 300mm Concrete
+    4300082: Retaining - 300mm Concrete
+    4300084: Retaining - 300mm Concrete
+    4300086: Retaining - 300mm Concrete
+    4300088: Retaining - 300mm Concrete
+    4300090: Interior - Partition
+    4300092: Wall - Timber Clad
+    4300094: Wall - Timber Clad
+    4300096: Interior - 165 Partition (1-hr)
+    4300098: Interior - Partition
+    4300100: Interior - Partition
+    4300102: Interior - Partition
+    4300104: Interior - Partition
+    4300106: Cavity wall_sliders
+    4300108: Steel-Stainless-NA
+    4300110: Chrome-Polished_Chrome-CP
+    4300112: 01 Cotton
+    4300114: Standard
+    4300116: Standard
+    4300118: Standard
+    4300120: Standard
+    4300122: 5000L 3500x900x1860
+    4300124: SG Metal Panels roof
+    4300126: Warm Roof - Timber
+    4300128: Surface
+    4300130: Surface
+    4300132: Surface
+    4300134: M_1000
+    4300136: L127X127X9.5
+    4300138: L127X127X9.5
+    4300140: 9 Meters High
+    4300142: 800 x 2100
+    4300144: 800 x 2100
+    4300146: 800 x 2100
+    4300148: 800 x 2100
+    4300150: 800 x 2100
+    4300152: 800 x 2100
+    4300154: 800 x 2100
+    4300156: Entrance door
+    4300158: Entrance door
+    4300160: Curtain Wall Dbl Glass
+    4300162: Curtain Wall Dbl Glass
+    4300164: Curtain Wall Dbl Glass
+    4300166: 2.027 x 0.945
+    4300168: 2.027 x 0.945
+    4300170: 2.027 x 0.945
+    4300172: 1730 x 2134mm
+    4300174: Glazed
+    4300176: Glazed
+    4300178: Glazed
+    4300180: Glazed
+    4300182: Glazed
+    4300184: Glazed
+    4300186: Glazed
+    4300188: Glazed
+    4300190: Glazed
+    4300192: Glazed
+    4300194: Glazed
+    4300196: Glazed
+    4300198: Glazed
+    4300200: Glazed
+    4300202: Glazed
+    4300204: Glazed
+    4300206: Glazed
+    4300208: Glazed
+    4300210: Glazed
+    4300212: Glazed
+    4300214: Glazed
+    4300216: Glazed
+    4300218: Glazed
+    4300220: Glazed
+    4300222: 64 x 128 rectangular
+    4300224: 64 x 128 rectangular
+    4300226: 64 x 128 rectangular
+    4300228: 64 x 128 rectangular
+    4300230: 64 x 128 rectangular
+    4300232: 64 x 128 rectangular
+    4300234: 64 x 128 rectangular
+    4300236: 64 x 128 rectangular
+    4300238: 64 x 128 rectangular
+    4300240: 64 x 128 rectangular
+    4300242: 64 x 128 rectangular
+    4300244: 64 x 128 rectangular
+    4300246: 64 x 128 rectangular
+    4300248: 64 x 128 rectangular
+    4300250: 64 x 128 rectangular
+    4300252: 64 x 128 rectangular
+    4300254: 64 x 128 rectangular
+    4300256: 64 x 128 rectangular
+    4300258: 64 x 128 rectangular
+    4300260: 64 x 128 rectangular
+    4300262: 64 x 128 rectangular
+    4300264: 64 x 128 rectangular
+    4300266: 64 x 128 rectangular
+    4300268: 64 x 128 rectangular
+    4300270: 64 x 128 rectangular
+    4300272: 64 x 128 rectangular
+    4300274: 64 x 128 rectangular
+    4300276: 64 x 128 rectangular
+    4300278: 64 x 128 rectangular
+    4300280: 64 x 128 rectangular
+    4300282: 64 x 128 rectangular
+    4300284: 64 x 128 rectangular
+    4300286: 64 x 128 rectangular
+    4300288: 64 x 128 rectangular
+    4300290: 64 x 128 rectangular
+    4300292: 64 x 128 rectangular
+    4300294: 64 x 128 rectangular
+    4300296: 64 x 128 rectangular
+    4300298: 64 x 128 rectangular
+    4300300: 64 x 128 rectangular
+    4300302: 64 x 128 rectangular
+    4300304: 64 x 128 rectangular
+    4300306: 64 x 128 rectangular
+    4300308: 64 x 128 rectangular
+    4300310: 64 x 128 rectangular
+    4300312: 64 x 128 rectangular
+    4300314: 64 x 128 rectangular
+    4300316: 64 x 128 rectangular
+    4300318: 64 x 128 rectangular
+    4300320: 64 x 128 rectangular
+    4300322: 64 x 128 rectangular
+    4300324: 64 x 128 rectangular
+    4300326: 64 x 128 rectangular
+    4300328: 64 x 128 rectangular
+    4300330: 64 x 128 rectangular
+    4300332: 64 x 128 rectangular
+    4300334: 64 x 128 rectangular
+    4300336: 64 x 128 rectangular
+    4300338: 64 x 128 rectangular
+    4300340: 64 x 128 rectangular
+    4300342: 64 x 128 rectangular
+    4300344: 64 x 128 rectangular
+    4300346: 64 x 128 rectangular
+    4300348: 64 x 128 rectangular
+    4300350: 64 x 128 rectangular
+    4300352: 64 x 128 rectangular
+    4300354: 64 x 128 rectangular
+    4300356: 64 x 128 rectangular
+    4300358: 64 x 128 rectangular
+    4300360: 64 x 128 rectangular
+    4300362: 64 x 128 rectangular
+    4300364: 64 x 128 rectangular
+    4300366: 64 x 128 rectangular
+    4300368: 64 x 128 rectangular
+    4300370: 64 x 128 rectangular
+    4300372: 64 x 128 rectangular
+    4300374: 64 x 128 rectangular
+    4300376: 64 x 128 rectangular
+    4300378: 64 x 128 rectangular
+    4300380: 64 x 128 rectangular
+    4300382: 64 x 128 rectangular
+    4300384: 64 x 128 rectangular
+    4300386: 64 x 128 rectangular
+    4300388: 64 x 128 rectangular
+    4300390: 64 x 128 rectangular
+    4300392: 64 x 128 rectangular
+    4300394: Standard
+    4300396: Standard
+    4300398: Standard
+    4300400: Standard
+    4300402: Standard
+    4300404: 1180 x 1170mm
+    4300406: 1180 x 1170mm
+    4300408: Pad 2
+    4300410: Pad 2
+    4300412: Walvit
+    4300414: Walvit
+    4300416: Walvit
+    4300418: Miele Washing Machine W 5820 WPS
+    4300420: Miele Induction Cooktop 6350 LPT
+    4300422: Miele Built-under Dishwasher G 4101 U CS
+    4300424: fire place hang
+    4300426: White
+    4300428: Fine China - Plate
+    4300430: Fine China - Plate
+    4300432: Water Glass
+    4300434: Water Glass
+    4300436: wardrobe
+    4300438: wardrobe
+    4300440: hood enclosure
+    4300442: 600 x 600 x 900mm
+    4300444: 600 x 600 x 900mm
+    4300446: 600 x 600 x 900mm
+    4300448: 600 x 600 x 900mm
+    4300450: 600 x 600 x 900mm
+    4300452: 600 x 600 x 900mm
+    4300454: 600 x 600 x 900mm
+    4300456: 600 x 600 x 900mm
+    4300458: 600 x 600 x 900mm
+    4300460: 600 x 600 x 900mm
+    4300462: 600 x 600 x 900mm
+    4300464: 600mm Diameter
+    4300466: 600mm Diameter
+    4300468: 600mm Diameter
+    4300470: 600mm Diameter
+    4300472: 600mm Diameter
+    4300474: 600mm Diameter
+    4300476: 600mm Diameter
+    4300478: 600mm Diameter
+    4300480: 600mm Diameter
+    4300482: 600mm Diameter
+    4300484: 600mm Diameter
+    4300486: Stair
+    4300488: Stair
+    4300490: Stair
+    4300492: SH_1100mm
+    4300494: SH_1100mm
+    4300496: SH_1100mm
+    4300498: SH_1100mm
+    4300500: SH_1100mm
+    4300502: SH_1100mm
+    4300504: SH_1100mm
+    4300506: SH_1100mm
+    4300508: SH_1100mm
+    4300510: SH_1100mm
+    4300512: Rectangular - 50x50mm
+    4300514: Rectangular - 50x50mm
+    4300516: Rectangular - 50x50mm
+    4300518: Rectangular - 50x50mm
+    4300520: Rectangular - 50x50mm
+    4300522: Rectangular - 50x50mm
+    4300524: Rectangular - 50x50mm
+    4300526: Rectangular - 50x50mm
+    4300528: Rectangular - 50x50mm
+    4300530: Rectangular - 50x50mm
+    4300532: Miele Tumble Dryer T 7944 C
+    4300534: Rangehood DA-2210
+    4300536: Miele Fridge/Freezer KF 1911 Vi
+    4300538: Miele Oven H 5681 BP
+    4300540: Miele Microwave M 8260-2
+    4300542: Vase (3)-with Flower
+    4300544: Wine Bottles
+    4300546: 4500_Kitchen Island_DW
+    4300548: 4500_Kitchen Island
+    4300550: 3000 x 3000mm Grid
+    4300552: 3000 x 3000mm Grid
+    4300554: Seating - Artemis - Lounge chair
+    4300556: Model with Island
+    4300558: W600XD600
+    4300560: W600XD600 2
+    4300562: W1500XD400XH530
+    4300564: 0810mm
+    4300566: Side Table 2 (2)
+    4300568: Bar Chair
+    4300570: 1800 x 900 mm
+    4300572: Dining Chair (3)
+    4300574: Dining Chair (3)
+    4300576: Trck_BswySystms_Cooper_RSA_Profile Series_AR111 Closed Back Integral
+      Xfmr
+    4300578: Trck_BswySystms_Cooper_RSA_Profile Series_AR111 Closed Back Integral
+      Xfmr
+    4300580: Trck_BswySystms_Cooper_RSA_Profile Series_AR111 Closed Back Integral
+      Xfmr
+    4300582: Trck_BswySystms_Cooper_RSA_Profile Series_AR111 Closed Back Integral
+      Xfmr
+    4300584: Trck_BswySystms_Cooper_RSA_Profile Series_AR111 Closed Back Integral
+      Xfmr
+    4300586: Trck_BswySystms_Cooper_RSA_Profile Series_AR111 Closed Back Integral
+      Xfmr
+    4300588: P-D-66N28T8
+    4300590: P-D-66N28T8
+    4300592: 150mm Foundation Slab
+    4300594: Solarworld Sunmodule Plus
+    4300596: Red Ash - 25'
+    4300598: Honey Locust - 25'
+    4300600: Lombardy Poplar - 40'
+    4300602: M_RPC Beetle
+    4300604: YinYin
+    4300606: YinYin
+    4300608: YinYin
+    4300610: Alex
+    6400000: 01 Cotton
+    6400002: 0810mm
+    6400004: 1180 x 1170mm
+    6400006: 1180 x 1170mm 1
+    6400008: 150mm Foundation Slab
+    6400010: 1730 x 2134mm
+    6400012: 1800 x 900 mm
+    6400014: 1800 x 900 mm 1
+    6400016: 2.027 x 0.945
+    6400018: 2.027 x 0.945 1
+    6400020: 2.027 x 0.945 2
+    6400022: 3000 x 3000mm Grid
+    6400024: 3000 x 3000mm Grid 1
+    6400026: 4500_Kitchen Island 1
+    6400028: 4500_Kitchen Island_DW 1
+    6400030: 5000L 3500x900x1860
+    6400032: 5000L 3500x900x1860 1
+    6400034: 600 x 600 x 900mm
+    6400036: 600 x 600 x 900mm 1
+    6400038: 600 x 600 x 900mm 10
+    6400040: 600 x 600 x 900mm 2
+    6400042: 600 x 600 x 900mm 3
+    6400044: 600 x 600 x 900mm 4
+    6400046: 600 x 600 x 900mm 5
+    6400048: 600 x 600 x 900mm 6
+    6400050: 600 x 600 x 900mm 7
+    6400052: 600 x 600 x 900mm 8
+    6400054: 600 x 600 x 900mm 9
+    6400056: 600mm Diameter
+    6400058: 600mm Diameter 1
+    6400060: 600mm Diameter 10
+    6400062: 600mm Diameter 2
+    6400064: 600mm Diameter 3
+    6400066: 600mm Diameter 4
+    6400068: 600mm Diameter 5
+    6400070: 600mm Diameter 6
+    6400072: 600mm Diameter 7
+    6400074: 600mm Diameter 8
+    6400076: 600mm Diameter 9
+    6400078: 64 x 128 rectangular
+    6400080: 64 x 128 rectangular 1
+    6400082: 64 x 128 rectangular 10
+    6400084: 64 x 128 rectangular 100
+    6400086: 64 x 128 rectangular 101
+    6400088: 64 x 128 rectangular 102
+    6400090: 64 x 128 rectangular 103
+    6400092: 64 x 128 rectangular 104
+    6400094: 64 x 128 rectangular 105
+    6400096: 64 x 128 rectangular 106
+    6400098: 64 x 128 rectangular 107
+    6400100: 64 x 128 rectangular 108
+    6400102: 64 x 128 rectangular 109
+    6400104: 64 x 128 rectangular 11
+    6400106: 64 x 128 rectangular 110
+    6400108: 64 x 128 rectangular 111
+    6400110: 64 x 128 rectangular 112
+    6400112: 64 x 128 rectangular 113
+    6400114: 64 x 128 rectangular 114
+    6400116: 64 x 128 rectangular 115
+    6400118: 64 x 128 rectangular 116
+    6400120: 64 x 128 rectangular 117
+    6400122: 64 x 128 rectangular 118
+    6400124: 64 x 128 rectangular 119
+    6400126: 64 x 128 rectangular 12
+    6400128: 64 x 128 rectangular 120
+    6400130: 64 x 128 rectangular 121
+    6400132: 64 x 128 rectangular 122
+    6400134: 64 x 128 rectangular 123
+    6400136: 64 x 128 rectangular 124
+    6400138: 64 x 128 rectangular 125
+    6400140: 64 x 128 rectangular 126
+    6400142: 64 x 128 rectangular 127
+    6400144: 64 x 128 rectangular 128
+    6400146: 64 x 128 rectangular 129
+    6400148: 64 x 128 rectangular 13
+    6400150: 64 x 128 rectangular 130
+    6400152: 64 x 128 rectangular 131
+    6400154: 64 x 128 rectangular 132
+    6400156: 64 x 128 rectangular 133
+    6400158: 64 x 128 rectangular 134
+    6400160: 64 x 128 rectangular 135
+    6400162: 64 x 128 rectangular 136
+    6400164: 64 x 128 rectangular 137
+    6400166: 64 x 128 rectangular 138
+    6400168: 64 x 128 rectangular 139
+    6400170: 64 x 128 rectangular 14
+    6400172: 64 x 128 rectangular 140
+    6400174: 64 x 128 rectangular 141
+    6400176: 64 x 128 rectangular 15
+    6400178: 64 x 128 rectangular 16
+    6400180: 64 x 128 rectangular 17
+    6400182: 64 x 128 rectangular 18
+    6400184: 64 x 128 rectangular 19
+    6400186: 64 x 128 rectangular 2
+    6400188: 64 x 128 rectangular 20
+    6400190: 64 x 128 rectangular 21
+    6400192: 64 x 128 rectangular 22
+    6400194: 64 x 128 rectangular 23
+    6400196: 64 x 128 rectangular 24
+    6400198: 64 x 128 rectangular 25
+    6400200: 64 x 128 rectangular 26
+    6400202: 64 x 128 rectangular 27
+    6400204: 64 x 128 rectangular 28
+    6400206: 64 x 128 rectangular 29
+    6400208: 64 x 128 rectangular 3
+    6400210: 64 x 128 rectangular 30
+    6400212: 64 x 128 rectangular 31
+    6400214: 64 x 128 rectangular 32
+    6400216: 64 x 128 rectangular 33
+    6400218: 64 x 128 rectangular 34
+    6400220: 64 x 128 rectangular 35
+    6400222: 64 x 128 rectangular 36
+    6400224: 64 x 128 rectangular 37
+    6400226: 64 x 128 rectangular 38
+    6400228: 64 x 128 rectangular 39
+    6400230: 64 x 128 rectangular 4
+    6400232: 64 x 128 rectangular 40
+    6400234: 64 x 128 rectangular 41
+    6400236: 64 x 128 rectangular 42
+    6400238: 64 x 128 rectangular 43
+    6400240: 64 x 128 rectangular 44
+    6400242: 64 x 128 rectangular 45
+    6400244: 64 x 128 rectangular 46
+    6400246: 64 x 128 rectangular 47
+    6400248: 64 x 128 rectangular 48
+    6400250: 64 x 128 rectangular 49
+    6400252: 64 x 128 rectangular 5
+    6400254: 64 x 128 rectangular 50
+    6400256: 64 x 128 rectangular 51
+    6400258: 64 x 128 rectangular 52
+    6400260: 64 x 128 rectangular 53
+    6400262: 64 x 128 rectangular 54
+    6400264: 64 x 128 rectangular 55
+    6400266: 64 x 128 rectangular 56
+    6400268: 64 x 128 rectangular 57
+    6400270: 64 x 128 rectangular 58
+    6400272: 64 x 128 rectangular 59
+    6400274: 64 x 128 rectangular 6
+    6400276: 64 x 128 rectangular 60
+    6400278: 64 x 128 rectangular 61
+    6400280: 64 x 128 rectangular 62
+    6400282: 64 x 128 rectangular 63
+    6400284: 64 x 128 rectangular 64
+    6400286: 64 x 128 rectangular 65
+    6400288: 64 x 128 rectangular 66
+    6400290: 64 x 128 rectangular 67
+    6400292: 64 x 128 rectangular 68
+    6400294: 64 x 128 rectangular 69
+    6400296: 64 x 128 rectangular 7
+    6400298: 64 x 128 rectangular 70
+    6400300: 64 x 128 rectangular 71
+    6400302: 64 x 128 rectangular 72
+    6400304: 64 x 128 rectangular 73
+    6400306: 64 x 128 rectangular 74
+    6400308: 64 x 128 rectangular 75
+    6400310: 64 x 128 rectangular 76
+    6400312: 64 x 128 rectangular 77
+    6400314: 64 x 128 rectangular 78
+    6400316: 64 x 128 rectangular 79
+    6400318: 64 x 128 rectangular 8
+    6400320: 64 x 128 rectangular 80
+    6400322: 64 x 128 rectangular 81
+    6400324: 64 x 128 rectangular 82
+    6400326: 64 x 128 rectangular 83
+    6400328: 64 x 128 rectangular 84
+    6400330: 64 x 128 rectangular 85
+    6400332: 64 x 128 rectangular 86
+    6400334: 64 x 128 rectangular 87
+    6400336: 64 x 128 rectangular 88
+    6400338: 64 x 128 rectangular 89
+    6400340: 64 x 128 rectangular 9
+    6400342: 64 x 128 rectangular 90
+    6400344: 64 x 128 rectangular 91
+    6400346: 64 x 128 rectangular 92
+    6400348: 64 x 128 rectangular 93
+    6400350: 64 x 128 rectangular 94
+    6400352: 64 x 128 rectangular 95
+    6400354: 64 x 128 rectangular 96
+    6400356: 64 x 128 rectangular 97
+    6400358: 64 x 128 rectangular 98
+    6400360: 64 x 128 rectangular 99
+    6400362: 800 x 2100
+    6400364: 800 x 2100 1
+    6400366: 800 x 2100 2
+    6400368: 800 x 2100 3
+    6400370: 800 x 2100 4
+    6400372: 800 x 2100 5
+    6400374: 800 x 2100 6
+    6400376: 9 Meters High
+    6400378: 9 Meters High 1
+    6400380: 9 Meters High 2
+    6400382: Alex
+    6400384: Bar Chair 1
+    6400386: Bar Chair 2
+    6400388: Bar Chair 3
+    6400390: Bar Chair 4
+    6400392: Bar Chair 5
+    6400394: Bar Chair 6
+    6400396: Cavity wall_sliders
+    6400398: Chrome-Polished_Chrome-CP
+    6400400: CL_W1
+    6400402: CL_W1 1
+    6400404: CL_W1 2
+    6400406: CL_W1 3
+    6400408: CL_W1 4
+    6400410: CL_W1 5
+    6400412: Concrete-Domestic 425mm
+    6400414: Curtain Wall Dbl Glass 1
+    6400416: Curtain Wall Dbl Glass 2
+    6400418: Curtain Wall Dbl Glass 3
+    6400420: Dining Chair (3) 1
+    6400422: Dining Chair (3) 2
+    6400424: Dining Chair (3) 3
+    6400426: Dining Chair (3) 4
+    6400428: Dining Chair (3) 5
+    6400430: Dining Chair (3) 6
+    6400432: Dining Chair (3) 7
+    6400434: Dining Chair (3) 8
+    6400436: Entrance door 1
+    6400438: Entrance door 2
+    6400440: Fine China - Plate
+    6400442: Fine China - Plate 1
+    6400444: Fine China - Plate 2
+    6400446: Fine China - Plate 3
+    6400448: Fine China - Plate 4
+    6400450: Fine China - Plate 5
+    6400452: Fine China - Plate 6
+    6400454: Fine China - Plate 7
+    6400456: fire place hang 1
+    6400458: Foundation - 300mm Concrete
+    6400460: Generic 150mm
+    6400462: Generic 150mm 1
+    6400464: Generic 300
+    6400466: Generic 300 1
+    6400468: Glazed
+    6400470: Glazed 1
+    6400472: Glazed 10
+    6400474: Glazed 11
+    6400476: Glazed 12
+    6400478: Glazed 13
+    6400480: Glazed 14
+    6400482: Glazed 15
+    6400484: Glazed 16
+    6400486: Glazed 17
+    6400488: Glazed 18
+    6400490: Glazed 19
+    6400492: Glazed 2
+    6400494: Glazed 20
+    6400496: Glazed 21
+    6400498: Glazed 22
+    6400500: Glazed 23
+    6400502: Glazed 24
+    6400504: Glazed 25
+    6400506: Glazed 26
+    6400508: Glazed 27
+    6400510: Glazed 28
+    6400512: Glazed 29
+    6400514: Glazed 3
+    6400516: Glazed 30
+    6400518: Glazed 31
+    6400520: Glazed 32
+    6400522: Glazed 33
+    6400524: Glazed 34
+    6400526: Glazed 35
+    6400528: Glazed 36
+    6400530: Glazed 37
+    6400532: Glazed 38
+    6400534: Glazed 39
+    6400536: Glazed 4
+    6400538: Glazed 40
+    6400540: Glazed 41
+    6400542: Glazed 42
+    6400544: Glazed 43
+    6400546: Glazed 5
+    6400548: Glazed 6
+    6400550: Glazed 7
+    6400552: Glazed 8
+    6400554: Glazed 9
+    6400556: Honey Locust - 25'
+    6400558: Honey Locust - 25' 1
+    6400560: Honey Locust - 25' 2
+    6400562: hood enclosure 1
+    6400564: Insitu Concrete 225mm
+    6400566: Insitu Concrete 225mm 1
+    6400568: Interior - 165 Partition (1-hr)
+    6400570: Interior - 165 Partition (1-hr) 1
+    6400572: Interior - 165 Partition (1-hr) 2
+    6400574: Interior - Partition
+    6400576: Interior - Partition 1
+    6400578: Interior - Partition 10
+    6400580: Interior - Partition 11
+    6400582: Interior - Partition 12
+    6400584: Interior - Partition 13
+    6400586: Interior - Partition 2
+    6400588: Interior - Partition 3
+    6400590: Interior - Partition 4
+    6400592: Interior - Partition 5
+    6400594: Interior - Partition 6
+    6400596: Interior - Partition 7
+    6400598: Interior - Partition 8
+    6400600: Interior - Partition 9
+    6400602: L127X127X9.5
+    6400604: L127X127X9.5 1
+    6400606: Lombardy Poplar - 40'
+    6400608: M_1000
+    6400610: M_RPC Beetle 1
+    6400612: Miele Built-under Dishwasher G 4101 U CS 1
+    6400614: Miele Fridge/Freezer KF 1911 Vi
+    6400616: Miele Induction Cooktop 6350 LPT
+    6400618: Miele Microwave M 8260-2
+    6400620: Miele Oven H 5681 BP 1
+    6400622: Miele Tumble Dryer T 7944 C 1
+    6400624: Miele Washing Machine W 5820 WPS 1
+    6400626: Model with Island
+    6400628: P-D-66N28T8
+    6400630: P-D-66N28T8 1
+    6400632: Pad 2
+    6400634: Pad 2 1
+    6400636: Rangehood DA-2210
+    6400638: Rectangular - 50x50mm
+    6400640: Rectangular - 50x50mm 1
+    6400642: Rectangular - 50x50mm 2
+    6400644: Rectangular - 50x50mm 3
+    6400646: Rectangular - 50x50mm 4
+    6400648: Rectangular - 50x50mm 5
+    6400650: Rectangular - 50x50mm 6
+    6400652: Rectangular - 50x50mm 7
+    6400654: Rectangular - 50x50mm 8
+    6400656: Rectangular - 50x50mm 9
+    6400658: Red Ash - 25'
+    6400660: Retaining - 300mm Concrete
+    6400662: Retaining - 300mm Concrete 1
+    6400664: Retaining - 300mm Concrete 2
+    6400666: Retaining - 300mm Concrete 3
+    6400668: Retaining - 300mm Concrete 4
+    6400670: Retaining - 300mm Concrete 5
+    6400672: Retaining - 300mm Concrete 6
+    6400674: Retaining - 300mm Concrete 7
+    6400676: Retaining - 300mm Concrete 8
+    6400678: Seating - Artemis - Lounge chair 1
+    6400680: Seating - Artemis - Lounge chair 2
+    6400682: SG Metal Panels roof
+    6400684: SH_1100mm
+    6400686: SH_1100mm 1
+    6400688: SH_1100mm 2
+    6400690: SH_1100mm 3
+    6400692: SH_1100mm 4
+    6400694: SH_1100mm 5
+    6400696: SH_1100mm 6
+    6400698: SH_1100mm 7
+    6400700: SH_1100mm 8
+    6400702: SH_1100mm 9
+    6400704: Side Table 2 (2) 1
+    6400706: Side Table 2 (2) 2
+    6400708: SIP 202mm Wall - conc clad
+    6400710: SIP 202mm Wall - conc clad 1
+    6400712: SIP 202mm Wall - conc clad 2
+    6400714: SIP 202mm Wall - conc clad 3
+    6400716: Solarworld Sunmodule Plus
+    6400718: Solarworld Sunmodule Plus 1
+    6400720: Solarworld Sunmodule Plus 10
+    6400722: Solarworld Sunmodule Plus 11
+    6400724: Solarworld Sunmodule Plus 2
+    6400726: Solarworld Sunmodule Plus 3
+    6400728: Solarworld Sunmodule Plus 4
+    6400730: Solarworld Sunmodule Plus 5
+    6400732: Solarworld Sunmodule Plus 6
+    6400734: Solarworld Sunmodule Plus 7
+    6400736: Solarworld Sunmodule Plus 8
+    6400738: Solarworld Sunmodule Plus 9
+    6400740: Stair
+    6400742: Stair 1
+    6400744: Stair 2
+    6400746: Standard
+    6400748: Standard 1
+    6400750: Standard 10
+    6400752: Standard 11
+    6400754: Standard 12
+    6400756: Standard 13
+    6400758: Standard 14
+    6400760: Standard 15
+    6400762: Standard 16
+    6400764: Standard 17
+    6400766: Standard 18
+    6400768: Standard 2
+    6400770: Standard 3
+    6400772: Standard 4
+    6400774: Standard 5
+    6400776: Standard 6
+    6400778: Standard 7
+    6400780: Standard 8
+    6400782: Standard 9
+    6400784: Steel-Stainless-NA
+    6400786: Surface
+    6400788: Surface 1
+    6400790: Surface 2
+    6400792: Timber Suspended Floor
+    6400794: Trck_BswySystms_Cooper_RSA_Profile Series_AR111 Closed Back Integral
+      Xfmr 1
+    6400796: Trck_BswySystms_Cooper_RSA_Profile Series_AR111 Closed Back Integral
+      Xfmr 2
+    6400798: Trck_BswySystms_Cooper_RSA_Profile Series_AR111 Closed Back Integral
+      Xfmr 3
+    6400800: Trck_BswySystms_Cooper_RSA_Profile Series_AR111 Closed Back Integral
+      Xfmr 4
+    6400802: Trck_BswySystms_Cooper_RSA_Profile Series_AR111 Closed Back Integral
+      Xfmr 5
+    6400804: Trck_BswySystms_Cooper_RSA_Profile Series_AR111 Closed Back Integral
+      Xfmr 6
+    6400806: Trck_BswySystms_Cooper_RSA_Profile Series_AR111 Closed Back Integral
+      Xfmr 7
+    6400808: Trck_BswySystms_Cooper_RSA_Profile Series_AR111 Closed Back Integral
+      Xfmr 8
+    6400810: Vase (3)-with Flower 1
+    6400812: W1500XD400XH530
+    6400814: W600XD600
+    6400816: W600XD600 1
+    6400818: W600XD600 2
+    6400820: W600XD600 2 1
+    6400822: W600XD600 2 1 1
+    6400824: W600XD600 3
+    6400826: W600XD600 4
+    6400828: Wall - Timber Clad
+    6400830: Wall - Timber Clad 1
+    6400832: Wall - Timber Clad 2
+    6400834: Wall - Timber Clad 3
+    6400836: Wall - Timber Clad 4
+    6400838: Wall - Timber Clad 5
+    6400840: Wall - Timber Clad 6
+    6400842: Wall - Timber Clad 7
+    6400844: Walvit
+    6400846: Walvit 1
+    6400848: Walvit 2
+    6400850: Walvit 3
+    6400852: wardrobe
+    6400854: wardrobe 1
+    6400856: Warm Roof - Timber
+    6400858: Water Glass 1
+    6400860: Water Glass 2
+    6400862: Water Glass 3
+    6400864: Water Glass 4
+    6400866: Water Glass 5
+    6400868: Water Glass 6
+    6400870: Water Glass 7
+    6400872: Water Glass 8
+    6400874: White
+    6400876: Wine Bottles 1
+    6400878: YinYin
+    6400880: YinYin 1
+    6400882: YinYin 2
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Acetal Resin, Black
+    second: {fileID: 2100000, guid: a796adff437cdd14fbee83ce5ba5edd0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Aluminum_Green
+    second: {fileID: 2100000, guid: af3dc0e17c8cfc6428c1db74b9c60c53, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Black Glass
+    second: {fileID: 2100000, guid: 32c48590993f2f44aad2e98b3b8a977f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Black Glass Pan
+    second: {fileID: 2100000, guid: 615053c1bbb835b4eaa9580080c4a044, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Black Plastic
+    second: {fileID: 2100000, guid: f7c2bcc561c801b4e9b09475598faeb2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Black panel
+    second: {fileID: 2100000, guid: 9899f479eae8a1648b4b05b51e7716a5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Buttons
+    second: {fileID: 2100000, guid: 308f627cce2dea147ab3b195edeefdcf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CL Concrete_ panels
+    second: {fileID: 2100000, guid: b38613ea53e07184ca62fc3cd3b78dbd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carpet (1)
+    second: {fileID: 2100000, guid: c3276582bc07901469627febebc9c119, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ceramic Dish
+    second: {fileID: 2100000, guid: 52689784cbc0474448ce8d92be97185d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Chair Fabric
+    second: {fileID: 2100000, guid: 28a4781060a41954bb8e7a71ffdbbae9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Chair wood
+    second: {fileID: 2100000, guid: 9f23ce5c8381baf49838e48ec1ff7c12, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Chrome-Kohler-CP-Polished_Chrome
+    second: {fileID: 2100000, guid: 726c2e54d2b233044a31284f153a067e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Clean Steel
+    second: {fileID: 2100000, guid: 7997ae4d6b2ca3745bf82a8a0ee66a62, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cleansteel
+    second: {fileID: 2100000, guid: ecfae19cf4602ee4eb97217f6ffeb41e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Concrete - Cast In Situ
+    second: {fileID: 2100000, guid: f31dc1b6b433ab940b9bbd184392dcea, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Concrete - Cast-in-Place Concrete
+    second: {fileID: 2100000, guid: 04bb7e6342a1a9847ad3ce87eb83a0df, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Concrete, Cast In Situ
+    second: {fileID: 2100000, guid: c0adef95d567ee545b114948f2f03bb8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Concrete, Sand_Cement Screed
+    second: {fileID: 2100000, guid: 12ad88d6692976d4b9548018d6c36dc3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Default
+    second: {fileID: 2100000, guid: 390ec9d6c44d14546a2dc6557ac117ab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Default Wall
+    second: {fileID: 2100000, guid: 97b1cfe8c0d29c24eb23c4e9caa966c9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Default material
+    second: {fileID: 2100000, guid: bb87798ec08308e4ea74e681ba87b4bb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Door
+    second: {fileID: 2100000, guid: b0b70b09ce6848341b122e7f6bbcc21f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Door - Frame
+    second: {fileID: 2100000, guid: 5102f8885039ca446a7311631468a186, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Door - Panel
+    second: {fileID: 2100000, guid: 5a6947d494274af4cb2408619a381146, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Earth
+    second: {fileID: 2100000, guid: 951112b573df2b747a1c30048f96da5a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Epoxy Resin - TOTO - 61 Angelic White
+    second: {fileID: 2100000, guid: ea85e4221675c904895f624d2b405bfd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fascia
+    second: {fileID: 2100000, guid: 377f1dec6fc16604386d15b399df50d0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Finishes - Exterior - Timber Cladding
+    second: {fileID: 2100000, guid: 20c3ac3bcdbd3914482daa0d9899d497, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Finishes - Interior - Gypsum Wall Board
+    second: {fileID: 2100000, guid: 0df4a34c4d8c7754fbb41b0e0bc0d058, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Finishes - Interior - Plasterboard
+    second: {fileID: 2100000, guid: 772a2ec909f76a54f85b5cc755d3bfb5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Flower
+    second: {fileID: 2100000, guid: d97a262fc1e29464b917ef113c7030bb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass
+    second: {fileID: 2100000, guid: adbdb18ade5adb143857688c478a698a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass - Aalto - White Paint
+    second: {fileID: 2100000, guid: b76cba139da6ed74ab1e96855c9c1f7a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass - Crystal Wine Glass
+    second: {fileID: 2100000, guid: d61e199e2e432464d850abd2c6f7b6c9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass - SolarWorld - Tempered Glass
+    second: {fileID: 2100000, guid: db5f599003d05044daa953c21b8e5890, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass - Transparent
+    second: {fileID: 2100000, guid: d3458df497b29e4428544a65bcc3f3a0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass, Clear Glazing
+    second: {fileID: 2100000, guid: 96d66b94678e78f468dd9f8ec3f37ef6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass, White, High Luminance
+    second: {fileID: 2100000, guid: 0071969b6f0a85e4e8c2245a0da38b4f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Grass
+    second: {fileID: 2100000, guid: a8256b3e3ab84b54184c38273999a9d2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Green Glass
+    second: {fileID: 2100000, guid: d6425043ee5456c46b034e0aec91f6cb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gypsum Wall Board
+    second: {fileID: 2100000, guid: abcc0ed6d89d59240a479bad24db6445, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Herman Miller - Finish 47 Trivalent Chrome
+    second: {fileID: 2100000, guid: 39d3281d689652540aebf3d7d6c42728, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Herman Miller - Finish PA Polished Aluminum
+    second: {fileID: 2100000, guid: 88ada4097b4c95240905c4d4c426827e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Herman Miller - Seat Fabric 8T07 Crossing Pumpkin
+    second: {fileID: 2100000, guid: 6d5b8ff4880c5724db05dd764cbe50f5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Herman Miller - Veneer OU Walnut
+    second: {fileID: 2100000, guid: 8b3df1d6e7d2ebb4b9a8032b5832d4fa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Herman Miller - Veneer UX Walnut on Cherry
+    second: {fileID: 2100000, guid: 433aac86c426f0a4ba48c7960de2751c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Herman Miller - Veneer Z5 Maple
+    second: {fileID: 2100000, guid: c37d6b8970490b84bb91fe0948260282, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Iron, Cast
+    second: {fileID: 2100000, guid: 76d7b835ec184e64c9ee4ab9203c05f5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Juice
+    second: {fileID: 2100000, guid: b4feb65536bec604cb3d95e13f5cdb3f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Leather - Tan
+    second: {fileID: 2100000, guid: f95f8f65aea4621438c38cd0cf9855ab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lighting
+    second: {fileID: 2100000, guid: e28eb0427a813624e84d61f9b7f7f29c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Logo
+    second: {fileID: 2100000, guid: d1c6f0801819d284ca4bb795a88fc19f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Main body
+    second: {fileID: 2100000, guid: 220a8854c64d95d43a56ac9cd773e1c6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metal
+    second: {fileID: 2100000, guid: 1ca85fa2162202940822d42b8ac8ee92, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metal - Aluminum
+    second: {fileID: 2100000, guid: 4697ead0fb3f75b44a2a023c0b3d9b4c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metal - Cooper Industries - Aluminum
+    second: {fileID: 2100000, guid: 077348609c29e5347aae00de3661fa93, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metal - Paint Finish - Dark Gray, Matte
+    second: {fileID: 2100000, guid: 3be95144c6e3d2b4ea87241c8e5195a0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metal - SolarWorld - BackSheet - White
+    second: {fileID: 2100000, guid: 8862952524287124486447ba29b8cdca, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metal - SolarWorld - Support Framing - Silver
+    second: {fileID: 2100000, guid: 8b4bb424f8c12d448a323fdcb68d4e44, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metal - Stainless
+    second: {fileID: 2100000, guid: 7362ec75288281e4fbaf68b8a5bfa361, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metal - Steel - 345 MPa
+    second: {fileID: 2100000, guid: 3f1772f326ccf914d830fcab04ef06b4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metal - TOTO - Chrome - Polished
+    second: {fileID: 2100000, guid: b06c63550ceba1d4d9f7b3bc8254e8d0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metal - TOTO - Enameled - 01 Cotton
+    second: {fileID: 2100000, guid: 0b1191416c95d8c40bc85b169acb837d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metal 1
+    second: {fileID: 2100000, guid: b16c68c277d21f74b9d9c3eb9a10178c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metal 2
+    second: {fileID: 2100000, guid: ba389531d0271bb4badc6f5f5d75d4c5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: 2a3535230533b82439a7af60549dd9e5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plastic
+    second: {fileID: 2100000, guid: cea3651be0da5cc4e9e41cd94335fbf9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plastic - TOTO - 01 Cotton
+    second: {fileID: 2100000, guid: 320c8e5475cc64d4dac01546f0e1add9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plinth
+    second: {fileID: 2100000, guid: b34a6881a062b0b4f9dfa94c37442bf8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Porcelain
+    second: {fileID: 2100000, guid: ba31cfaa444763b46a1af307c7e6240f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Red Vase
+    second: {fileID: 2100000, guid: 89abea46d0ed1e046ba68b41eec91d5a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Roofing - Asphalt
+    second: {fileID: 2100000, guid: 07d447d9124e8034ab33a3c13a359c48, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Roofing - Metal Standing Seam
+    second: {fileID: 2100000, guid: 68ceb3ae86f857e458b0b1a8f21d734f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Rubber
+    second: {fileID: 2100000, guid: 4fc789a1a80b2ab4894233b0cc9e9dd4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SH_Aluminum, Anodized Black
+    second: {fileID: 2100000, guid: 6a7c15c87e456014780a897faabfbb9c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SH_Metal - Steel
+    second: {fileID: 2100000, guid: 1ecc88c65232ee645b8c1dc8d4c6b4e4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SH_resin Floor
+    second: {fileID: 2100000, guid: 5c35432ca31a14e4f90f81426a7562f4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Silver Aluminium
+    second: {fileID: 2100000, guid: 9986cb1add6ad8b4dadc67a64c6a07f0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Site - Hardcore
+    second: {fileID: 2100000, guid: 6c3b3e67a67a2674c854114ffd6cc7f9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Stainless Steel
+    second: {fileID: 2100000, guid: 1385d58df0525d6498297361a7cd6a11, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Stainless Steel 1
+    second: {fileID: 2100000, guid: 9834effa2c7e24d4ba53c8e825605a9d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Steel-Kohler-NA-Stainless
+    second: {fileID: 2100000, guid: 62a2b6415dbc6a0429179d5844946cfc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Stem
+    second: {fileID: 2100000, guid: 0e209b38cce14e741991bbadf88e57d4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Structure - Timber Joist_Rafter Layer
+    second: {fileID: 2100000, guid: 264429edbda069747aaefffa0ac219ed, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TV - Black
+    second: {fileID: 2100000, guid: 23f6f2207a28f49439cdfe64224c60c0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TV - Glass
+    second: {fileID: 2100000, guid: 8f45300bc85cbd243a55a6605747d24f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TV - Screen
+    second: {fileID: 2100000, guid: 8839ec2fa3b59284f8b2a154b987b200, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "Tankworks - Colorbond\xAE - Pale Eucalypt\xAE"
+    second: {fileID: 2100000, guid: 1d39daf5a9a10f64baa8b5a34866b5a1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Terrazzo
+    second: {fileID: 2100000, guid: bc3f03fab5759a04fb109954b94f1d0e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Water
+    second: {fileID: 2100000, guid: 7ec6faeac9ef40d4d898b89d500bcd6b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wood - Medium Brown
+    second: {fileID: 2100000, guid: 5b74d6f9574e43d4999598b8f177cb84, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wood_Walnut black
+    second: {fileID: 2100000, guid: b5c212cf82e6eed4ca38bdab32ca76d2, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 102
+    second: {fileID: 2800000, guid: 610ac463aae0f1c4984403be9115be8d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: concrete.cast-in-place.formwork.wood.boards
+    second: {fileID: 2800000, guid: 514d734b1c872f24385003057416d4ff, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: concrete.cast-in-place.panels.reveal.smooth
+    second: {fileID: 2800000, guid: d594d2973736497438e70bdb05af0066, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: finishes.flooring.carpet.needlepunch.white
+    second: {fileID: 2800000, guid: e77bd8774a8b9424faf3727c7dce7d50, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: finishes.gypsum board.painted.white
+    second: {fileID: 2800000, guid: 0cab63a4d15cdd147a9823069abea3f1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: finishes.masonry flooring.terrazzo.white
+    second: {fileID: 2800000, guid: fa0b4e75cc201444a83da861269e09ff, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: finishes.painting.paint.bump
+    second: {fileID: 2800000, guid: 24504eb1211951b45b96e15a42420471, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: furnishings.fabrics.leather.black
+    second: {fileID: 2800000, guid: e15867726874ace4e8c339e66cd15eb4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: furnishings.fabrics.leather.brown
+    second: {fileID: 2800000, guid: ab9d68e4f59c67044a3be6d20447620b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: furnishings.fabrics.leather.tan
+    second: {fileID: 2800000, guid: 5cac3dc27d31c204999356b8ee4a09f7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: hone
+    second: {fileID: 2800000, guid: fe5769eb19e87dc4cb8382a2b7980620, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: metals.ornamental metals.aluminum.brushed.random
+    second: {fileID: 2800000, guid: 3d079218cac15d742a5bcd28f690737c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: plastic_smooth_bump
+    second: {fileID: 2800000, guid: bbe43987398eee34bb9e874e8d84e3e6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sitework.planting.grass.thick
+    second: {fileID: 2800000, guid: e10422d48ef96ee4cb85185bfa10eedb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sitework.planting.grass.thick.light rye
+    second: {fileID: 2800000, guid: e22c8e6e6f54461499cada80254b41d6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sitework.planting.gravel.mixed
+    second: {fileID: 2800000, guid: 2169aa0f806c89045b1444b6ed06f799, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: standing.seam
+    second: {fileID: 2800000, guid: 680e2e4e91f3b794a8a2b252d1af137f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: steelplt
+    second: {fileID: 2800000, guid: 5292a944a110c834f84f93addf143234, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: thermal_ moisture.shingles.rectangle
+    second: {fileID: 2800000, guid: d2a9c9bc6d8dbbf418525d8b4a86a69c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: woods & plastics.finish carpentry.wood.maple
+    second: {fileID: 2800000, guid: da2371e978f3f4246852d73fd3ba815b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: woods & plastics.finish carpentry.wood.red birch
+    second: {fileID: 2800000, guid: d467b792952cba94cb61be09e9f585d1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: woods & plastics.finish carpentry.wood.walnut
+    second: {fileID: 2800000, guid: a29c525f4d91f334785e856b96fc47b7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: woods and plastics.finish carpentry.wood.paneling.1
+    second: {fileID: 2800000, guid: 68795da52372f1c498efe86c10a3796c, type: 3}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.003
+    meshCompression: 0
+    addColliders: 1
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
